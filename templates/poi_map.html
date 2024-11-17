@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Points of Interest Map</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key={{ google_maps_api_key }}&libraries=places"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Points of Interest Map</h1>
+
+        <!-- City Selection -->
+        <div class="filters">
+            <label for="city-select">Select a City:</label>
+            <select id="city-select">
+                <option value="">Select a City</option>
+                <!-- City options will be populated dynamically -->
+            </select>
+        </div>
+
+        <!-- Search for Other POIs -->
+        <div>
+            <label for="search-poi">Search for Places:</label>
+            <input type="text" id="search-poi" placeholder="e.g. restaurants, parks, etc.">
+            <button id="search-button">Search</button>
+        </div>
+
+        <!-- Map Section -->
+        <div id="map" style="height: 500px; width: 100%; margin-top: 20px;"></div>
+
+        <!-- POI List Section -->
+        <div id="poi-list" style="max-height: 300px; overflow-y: auto; margin-top: 20px;">
+            <!-- Search results will be appended here dynamically -->
+        </div>
+
+        <!-- "Search this area" Button -->
+        <div id="search-area-button">
+            <button onclick="searchInCurrentArea()">Search this area</button>
+        </div>
+
+        <!-- Back to Home Button -->
+        <div class="back-home-container">
+            <button onclick="window.location.href='/'" class="back-home-btn">Back to Home</button>
+        </div>
+    </div>
+
+    <script>
+        let map;
+        let markers = [];
+        let placesService;
+        let searchAreaButton = document.getElementById('search-area-button');
+
+        // Helper function to get URL parameters
+        function getUrlParam(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);
+        }
+
+        // Initialize the map
+        function initMap() {
+            const placeName = getUrlParam('place_name');
+            const lat = parseFloat(getUrlParam('lat'));
+            const lng = parseFloat(getUrlParam('lng'));
+                
+            const defaultCenter = { lat: 39.3999, lng: -8.2245 };
+            map = new google.maps.Map(document.getElementById('map'), {
+                center: defaultCenter,
+                zoom: 7,
+            });
+
+            placesService = new google.maps.places.PlacesService(map);  // Initialize the places service
+        
+            if (lat && lng) {
+                map.setCenter({ lat, lng });
+                map.setZoom(15);
+                new google.maps.Marker({
+                    position: { lat, lng },
+                    map: map,
+                    title: 'Location',
+                });
+            } else if (placeName) {
+                const request = {
+                    query: placeName,
+                    fields: ['name', 'geometry'],
+                };
+                placesService.findPlaceFromQuery(request, function(results, status) {
+                    if (status === google.maps.places.PlacesServiceStatus.OK && results[0]) {
+                        const place = results[0];
+                        map.setCenter(place.geometry.location);
+                        map.setZoom(15);
+                        new google.maps.Marker({
+                            position: place.geometry.location,
+                            map: map,
+                            title: place.name,
+                        });
+                    } else {
+                        console.error('Place not found: ', status);
+                    }
+                });
+            }
+
+            // Fetch and populate cities for dropdown
+            fetchCitiesForDropdown();
+
+            // Add an event listener to display the "Search this area" button when the map is moved
+            map.addListener('bounds_changed', () => {
+                searchAreaButton.style.display = 'block';
+            });
+        }
+
+        // Fetch cities for the dropdown
+        async function fetchCitiesForDropdown() {
+            try {
+                const response = await fetch('/get-map-cities');
+                const cities = await response.json();
+                const citySelect = document.getElementById('city-select');
+            
+                // Populate the dropdown with city options
+                cities.forEach(city => {
+                    const option = document.createElement('option');
+                    option.value = JSON.stringify({ lat: city.lat, lng: city.lng });
+                    option.textContent = city.city;
+                    citySelect.appendChild(option);
+                });
+
+                // Zoom in on the city when selected
+                citySelect.addEventListener('change', (event) => {
+                    const selectedCityValue = event.target.value;
+                    if (selectedCityValue) {
+                        const selectedCity = JSON.parse(selectedCityValue);
+                        const cityLatLng = { lat: parseFloat(selectedCity.lat), lng: parseFloat(selectedCity.lng) };
+                        if (cityLatLng.lat && cityLatLng.lng) {
+                            map.setCenter(cityLatLng);
+                            map.setZoom(13);
+                        } else {
+                            console.error('City coordinates are invalid');
+                        }
+                    }
+                });
+            } catch (error) {
+                console.error('Error loading cities:', error);
+            }
+        }
+
+        // Search for Places within the current map bounds
+        function searchInCurrentArea() {
+            const query = document.getElementById('search-poi').value;
+            const bounds = map.getBounds();
+
+            if (!query) {
+                console.error('Please enter a search term');
+                return;
+            }
+
+            const request = {
+                query: query,
+                bounds: bounds,
+                fields: ['name', 'geometry', 'formatted_address', 'place_id'],
+            };
+
+            placesService.textSearch(request, (results, status) => {
+                if (status === google.maps.places.PlacesServiceStatus.OK) {
+                    clearMarkers();  // Clear existing markers
+                    displayResults(results);
+                } else {
+                    console.error('Places search failed:', status);
+                }
+            });
+        }
+
+        // Handle search when the "Search" button is clicked
+        document.addEventListener('DOMContentLoaded', () => {
+            document.getElementById('search-button').addEventListener('click', () => {
+                searchInCurrentArea();
+            });
+        });
+
+        // Display the search results as markers and in the list
+        function displayResults(results) {
+            const poiList = document.getElementById('poi-list');
+            poiList.innerHTML = '';  // Clear previous results
+
+            results.forEach(place => {
+                if (place.geometry && place.geometry.location) {
+                    const marker = new google.maps.Marker({
+                        map: map,
+                        position: place.geometry.location,
+                        title: place.name,
+                    });
+                    markers.push(marker);
+
+                    const placeCard = document.createElement('div');
+                    placeCard.classList.add('place-card');
+                    placeCard.innerHTML = `
+                        <h4>${place.name}</h4>
+                        <p>${place.formatted_address || 'Address not available'}</p>
+                        <a href="https://www.google.com/maps/place/?q=place_id:${place.place_id}" target="_blank">See in Google Maps</a>
+                    `;
+                    poiList.appendChild(placeCard);
+                }
+            });
+        }
+
+        // Clear all existing markers from the map
+        function clearMarkers() {
+            markers.forEach(marker => marker.setMap(null));
+            markers = [];
+        }
+
+        window.onload = initMap;
+    </script>
+
+    <!-- Include chatbot -->
+    {% include 'chatbot.html' %}
+</body>
+</html>

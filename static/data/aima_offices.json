@@ -1,0 +1,301 @@
+[
+    {
+        "name": "Albufeira",
+        "address": "Quinta da Bela Vista, Bloco A10, Loja D",
+        "postal_code": "8200-137 Albufeira",
+        "working_hours": "Weekdays: 09h00 às 15h00",
+        "type": "aima_offices"
+    },
+    {
+        "name": "Aveiro",
+        "address": "Rua Dr. Orlando Oliveira, 41-47",
+        "postal_code": "3800-004 Aveiro",
+        "working_hours": "Weekdays: 08h30 às 19h30",
+        "lat": 40.6386993,
+        "lng": -8.6392904,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Bragança",
+        "address": "Largo S. João, R/C Dto Edifício do Ex. Governo Civil",
+        "postal_code": "5301-864 Bragança",
+        "working_hours": "Weekdays: 09h00 às 12h00 e 14h00 às 16h30",
+        "type": "aima_offices"
+    },
+    {
+        "name": "Castelo Branco",
+        "address": "Rua Prof. Dr. Faria de Vasconcelos, 6 R/C",
+        "postal_code": "6000-266 Castelo Branco",
+        "working_hours": "Weekdays: 09h00 às 12h30 e 14h00 às 16h30",
+        "lat": 39.8190553,
+        "lng": -7.496127599999999,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Évora",
+        "address": "Avenida Lino de Carvalho, 7 e 7A",
+        "postal_code": "7005-467 Évora",
+        "working_hours": "Weekdays: 09h00 às 12h30 e 14h00 às 16h30",
+        "lat": 38.5758927,
+        "lng": -7.9050305,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Funchal",
+        "address": "Avenida Arriaga, 42-A Edifício Arriaga",
+        "postal_code": "9000-064 Funchal",
+        "working_hours": "Weekdays: 09h00 às 17h00",
+        "lat": 32.6472119,
+        "lng": -16.9123618,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Leiria",
+        "address": "Largo Dr. Manuel de Arriaga, 1",
+        "postal_code": "2400-177 Leiria",
+        "working_hours": "Weekdays: 08h30 às 12h30 e 13h00 às 16h00",
+        "lat": 39.7465118,
+        "lng": -8.8081155,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Odemira",
+        "address": "Rua Sousa Prado Edifício da Caixa Agrícola, 1.º, Sala 2",
+        "postal_code": "7630-176 Odemira",
+        "working_hours": "Weekdays: 09h00 às 13h00 e 14h00 às 17h00",
+        "type": "aima_offices"
+    },
+    {
+        "name": "Portalegre",
+        "address": "Avenida de Santo António, 12",
+        "postal_code": "7300-074 Portalegre",
+        "working_hours": "Weekdays: 09h00 às 12h30 e  14h00 às 16h30",
+        "lat": 40.6407448,
+        "lng": -8.619642599999999,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Porto Santo",
+        "address": "Avenida Henrique Vieira de Castro, 14",
+        "postal_code": "9400-179 Vila Baleira",
+        "working_hours": "Weekdays: 08h30 às 12h30 e 13h00 às 16h30",
+        "lat": 33.0584485,
+        "lng": -16.3362846,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Tavira",
+        "address": "Rua Dr. Augusto Carlos Palma, 13",
+        "postal_code": "8800-345 Tavira",
+        "working_hours": "Weekdays: 09h00 às 13h00 e 14h00 às 16h00",
+        "type": "aima_offices"
+    },
+    {
+        "name": "Viseu",
+        "address": "Avenida Alberto Sampaio, 17, R/C",
+        "postal_code": "3510-512 Viseu",
+        "working_hours": "Weekdays: 09h00 às 13h00 e 14h00 às 16h30",
+        "lat": 40.65734399999999,
+        "lng": -7.915750099999999,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Alverca",
+        "address": "Praceta Estanislau Raimundo Nogueira 1 e 2",
+        "postal_code": "2615-075 Alverca do Ribatejo",
+        "working_hours": "Weekdays: 08h30 às 15h30",
+        "lat": 38.8931468,
+        "lng": -9.042121,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Beja",
+        "address": "Rua Dom Nuno Alvares Pereira, 053 Edifício do Antigo Governo Civil",
+        "postal_code": "7800-053 Beja",
+        "working_hours": "Weekdays: 09h00 às 13h00 e 14h00 às 16h00",
+        "lat": 38.6556472,
+        "lng": -9.0727379,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Cacém",
+        "address": "Praceta Duque de Saldanha, 17",
+        "postal_code": "2735-330 Agualva Cacém",
+        "working_hours": "Weekdays: 09h00 às 17h00",
+        "lat": 39.4763522,
+        "lng": -8.4817189,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Coimbra",
+        "address": "Avenida Central 16/20",
+        "postal_code": "3000-617 Coimbra",
+        "working_hours": "Weekdays: 09h00 às 16h00",
+        "type": "aima_offices"
+    },
+    {
+        "name": "Faro",
+        "address": "Mercado Municipal de Faro Largo Dr. Francisco Sá Carneiro",
+        "postal_code": "8000-151 Faro",
+        "working_hours": "Weekdays: 08h30 às 17h00",
+        "lat": 37.0198836,
+        "lng": -7.9287722,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Guarda",
+        "address": "Rua Paiva Couceiro, 22",
+        "postal_code": "6300-593 Guarda",
+        "working_hours": "Weekdays: 09h00 às 12h30 e 14h00 às 16h30",
+        "lat": 40.5396885,
+        "lng": -7.271373199999999,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Lisboa I",
+        "address": "Avenida António Augusto de Aguiar, 20   Entrega de Títulos, 12h00 às 16h00",
+        "postal_code": "1069-119 Lisboa",
+        "working_hours": "Weekdays: 09h00 às 17h00",
+        "lat": 38.728973,
+        "lng": -9.149121899999999,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Odivelas",
+        "address": "Centro Comercial Strada Outlet Caixa 18, Estrada da Paiã, Casal da Troca",
+        "postal_code": "2675-626 Odivelas",
+        "working_hours": "Weekdays: 09h00 às 17h00",
+        "lat": 38.7822701,
+        "lng": -9.192486599999999,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Portimão",
+        "address": "Quinta do Morais, Lote 11, Fracção A",
+        "postal_code": "8500-774 Portimão",
+        "working_hours": "Weekdays: 09h00 às 15h00",
+        "type": "aima_offices"
+    },
+    {
+        "name": "Santarém",
+        "address": "Largo do Carmo Edifício do Governo Civil",
+        "postal_code": "2000-118 Santarém",
+        "working_hours": "Weekdays: 09h00 às 16h00",
+        "lat": 38.7118615,
+        "lng": -9.1410133,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Viana do Castelo",
+        "address": "Rua José Espregueira, 145-147",
+        "postal_code": "4900-459 Viana do Castelo",
+        "working_hours": "Weekdays: 09h00 às 13h00 e 14h00 às 16h00",
+        "lat": 41.6983802,
+        "lng": -8.8257816,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Angra Heroísmo",
+        "address": "Alto das Covas, 12, Sé",
+        "postal_code": "9700-212 Angra do Heroísmo",
+        "working_hours": "Weekdays: 09h00 às 13h00 e 14h00 às 15h30",
+        "lat": 38.6561675,
+        "lng": -27.2233395,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Braga",
+        "address": "Rua dos Granjinhos, 6",
+        "postal_code": "4700-996 Braga",
+        "working_hours": "Weekdays: 08h30 às 19h00",
+        "type": "aima_offices"
+    },
+    {
+        "name": "Cascais",
+        "address": "Rua da Misericórdia, 1",
+        "postal_code": "2750-434 Cascais",
+        "working_hours": "Weekdays: 09h00 às 17h00",
+        "lat": 38.6986865,
+        "lng": -9.4192354,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Espinho",
+        "address": "Rua 32, 834",
+        "postal_code": "4500-191 Espinho",
+        "working_hours": "Weekdays: 09h00 às 12h30 e 14h00 às 16h00",
+        "lat": 41.0059575,
+        "lng": -8.6345762,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Figueira da Foz",
+        "address": "Avenida de Espanha, 380 Edifício da Administração do Porto",
+        "postal_code": "3080-271 Figueira da Foz",
+        "working_hours": "Weekdays: 09h00 às 13h00 e 14h00 às 16h00",
+        "lat": 41.1579438,
+        "lng": -8.629105299999999,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Horta",
+        "address": "Rua de S. João, 46",
+        "postal_code": "9900-129 Horta, Faial, Açores",
+        "working_hours": "Weekdays: 09h00 às 12h30 e 14h00 às 16h00",
+        "lat": 41.1419135,
+        "lng": -8.6137253,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Lisboa II",
+        "address": "Rua Álvaro Coutinho, 14   Exclusivamente para Informações",
+        "postal_code": "1150-025 Lisboa",
+        "working_hours": "Weekdays: 08h00 às 17h00",
+        "lat": 38.7250007,
+        "lng": -9.134435,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Ponta Delgada",
+        "address": "Rua Marquês da Praia e Monforte, 10 Apartado 259",
+        "postal_code": "9500-089 Ponta Delgada",
+        "working_hours": "Weekdays: 09h00 às 12h30 e 14h00 às 16h00",
+        "lat": 7.882760999999999,
+        "lng": -76.624692,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Porto",
+        "address": "Avenida de França, 316 Edifício Capitólio, Loja 57",
+        "postal_code": "4050-276 Porto",
+        "working_hours": "Weekdays: 08h00 às 17h00",
+        "lat": 41.1614656,
+        "lng": -8.6273917,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Setúbal",
+        "address": "Avenida Luísa Todi, 36, 38A e 40",
+        "postal_code": "2900-450 Setúbal",
+        "working_hours": "Weekdays: 08h30 às 16h00",
+        "lat": 38.5228058,
+        "lng": -8.885975000000002,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Vila Real",
+        "address": "Largo Conde de Amarante Edifício do Governo Civil",
+        "postal_code": "5000-529 Vila Real",
+        "working_hours": "Weekdays: 09h00 às 12h00 e 14h00 às 16h30",
+        "lat": 41.295448,
+        "lng": -7.746527,
+        "type": "aima_offices"
+    },
+    {
+        "name": "Unknown",
+        "address": "(Custo de acordo com tarifário)",
+        "postal_code": "",
+        "working_hours": "",
+        "type": "aima_offices"
+    }
+]

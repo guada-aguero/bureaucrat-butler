@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Migration Assistant</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            min-height: 100vh;
+            margin: 0;
+            color: #333;
+        }
+
+        .navbar {
+            width: 100%;
+            background-color: #4a00e0;
+            padding: 15px;
+            text-align: center;
+        }
+
+        .navbar a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+            display: inline-block;
+            font-size: 16px;
+        }
+
+        .navbar a:hover {
+            background-color: #6a11cb;
+            color: white;
+        }
+
+        .tab-content {
+            display: none;
+            width: 100%;
+            max-width: 900px;
+            margin: 40px auto;
+            background-color: #fff;
+            padding: 25px;
+            border-radius: 16px;
+            box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.15);
+            text-align: center;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            color: #4a00e0;
+            margin-bottom: 20px;
+            font-weight: 600;
+        }
+
+        /* Chatbot Button */
+        #chatbotBtn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #4a00e0;
+            color: white;
+            padding: 15px 20px;
+            border-radius: 50%;
+            cursor: pointer;
+            box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
+            transition: background-color 0.3s ease;
+        }
+
+        #chatbotBtn:hover {
+            background-color: #6a11cb;
+        }
+
+        /* Chatbot Modal */
+        #chatbotModal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+
+        .modal-content {
+            background-color: white;
+            margin: 10% auto;
+            padding: 20px;
+            border-radius: 12px;
+            width: 90%;
+            max-width: 400px;
+            box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navigation Bar -->
+    <div class="navbar">
+        <a href="#" onclick="showTab('home')">Home</a>
+        <a href="#" onclick="showTab('housing')">Housing</a>
+        <a href="#" onclick="showTab('dashboard')">Dashboard</a>
+        <a href="#" onclick="showTab('directory')">Directory</a>
+    </div>
+
+    <!-- Tab Content Containers -->
+    <div class="content">
+        <!-- Home Tab Content -->
+        <div id="home" class="tab-content active">
+            <h1>Welcome to Bureaucrat Butler</h1>
+            <p>Your assistant to help with migration to Portugal. Get housing recommendations, cost of living analysis, and access to important directories for your migration journey.</p>
+        </div>
+
+        <!-- Housing Recommendation Tab Content -->
+        <div id="housing" class="tab-content">
+            <h1>Housing Recommendation</h1>
+            <form id="preferences-form">
+                <label for="budget">Monthly Budget (€/month):</label>
+                <input type="number" id="budget" name="budget" placeholder="Enter your budget"><br>
+
+                <label for="environment">Preferred Environment:</label>
+                <select id="environment" name="environment" onchange="fetchCities()">
+                    <option value="urban">Urban</option>
+                    <option value="suburban">Suburban</option>
+                    <option value="rural">Rural</option>
+                </select><br>
+
+                <!-- City Dropdown -->
+                <label for="city">Select City:</label>
+                <select id="city" name="city">
+                    <!-- Cities will be populated here based on environment -->
+                </select><br>
+
+                <label for="housing">Housing Preference:</label>
+                <select id="housing" name="housing">
+                    <option value="bedrooms">Bedrooms</option>
+                    <option value="garages">Garages</option>
+                    <option value="homes">Homes</option>
+                </select><br>
+
+                <button type="button" onclick="submitPreferences()">Submit Preferences</button>
+            </form>
+            <div id="recommendations" class="recommendations"></div>
+        </div>
+
+        <!-- Cost of Living Dashboard Tab Content -->
+        <div id="dashboard" class="tab-content">
+            <h1>Cost of Living Dashboard</h1>
+            <form id="dashboard-form">
+                <label for="city">Select City:</label>
+                <select id="dashboard-city" name="city">
+                    <!-- Add city options here -->
+                    <option value="Lisbon">Lisbon</option>
+                    <option value="Porto">Porto</option>
+                    <option value="Faro">Faro</option>
+                </select><br>
+
+                <label for="budget">Monthly Budget (€):</label>
+                <input type="number" id="dashboard-budget" name="budget" placeholder="Enter your monthly budget" min="0" required><br>
+
+                <button type="button" onclick="updateDashboard()">Submit</button>
+            </form>
+
+            <canvas id="budget-chart"></canvas>
+        </div>
+
+        <!-- Directory Tab Content -->
+        <div id="directory" class="tab-content">
+            <h1>Directory</h1>
+            <p>Here, we will list useful contacts and services for migrants in Portugal, such as lawyers, visa consultants, and more.</p>
+        </div>
+    </div>
+
+    <!-- Modal for Chatbot -->
+    <div id="chatbotModal">
+        <div class="modal-content">
+            <span class="close" onclick="closeChatbot()">&times;</span>
+            <h1>Bureaucrat Butler</h1>
+            <h2>Ask about visas or documents!</h2>
+            <input type="text" id="query" placeholder="Ask me anything...">
+            <button onclick="askQuestion()">Submit</button>
+            <div id="answer" class="answer"></div>
+        </div>
+    </div>
+
+    <!-- Chatbot Trigger Button -->
+    <div id="chatbotBtn" onclick="openChatbot()">💬</div>
+
+    <script>
+        // Function to open the chatbot modal
+        function openChatbot() {
+            const chatbotModal = document.getElementById('chatbotModal');
+            chatbotModal.style.display = 'block';
+        }
+
+        // Function to close the chatbot modal
+        function closeChatbot() {
+            const chatbotModal = document.getElementById('chatbotModal');
+            chatbotModal.style.display = 'none';
+        }
+
+        // Function to handle the question submission
+        async function askQuestion() {
+            const query = document.getElementById('query').value;
+            const response = await fetch('/ask', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ query })
+            });
+            const data = await response.json();
+            document.getElementById('answer').innerHTML = data.answer;
+        }
+
+        function showTab(tabName) {
+            var tabs = document.getElementsByClassName('tab-content');
+            for (var i = 0; i < tabs.length; i++) {
+                tabs[i].classList.remove('active');
+            }
+            document.getElementById(tabName).classList.add('active');
+        }
+
+        async function fetchCities() {
+            const environment = document.getElementById('environment').value;
+            const response = await fetch('/get-cities', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ environment })
+            });
+
+            const data = await response.json();
+            const citySelect = document.getElementById('city');
+            citySelect.innerHTML = '';  // Clear existing options
+
+            // Populate the select dropdown with cities
+            data.cities.forEach(city => {
+                const option = document.createElement('option');
+                option.value = city;
+                option.text = city;
+                citySelect.appendChild(option);
+            });
+        }
+
+        async function submitPreferences() {
+            const budget = document.getElementById('budget').value;
+            const city = document.getElementById('city').value;
+            const housing = document.getElementById('housing').value;
+
+            if (!budget || !city || !housing) {
+                console.error('All fields are required.');
+                return;
+            }
+
+            const formData = { budget, city, housing };
+            try {
+                const response = await fetch('/preferences', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(formData)
+                });
+
+                const data = await response.json();
+                document.getElementById('recommendations').innerHTML = data.recommendations;
+            } catch (error) {
+                console.error('Error submitting preferences:', error);
+            }
+        }
+
+        async function updateDashboard() {
+            const city = document.getElementById('dashboard-city').value;
+            const budget = document.getElementById('dashboard-budget').value;
+
+            const response = await fetch('/dashboard-data', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ city, budget })
+            });
+
+            const data = await response.json();
+            if (data.categories) {
+                createChart(data.categories);
+            } else {
+                console.error('No data available');
+            }
+        }
+
+        function createChart(categories) {
+            const ctx = document.getElementById('budget-chart').getContext('2d');
+            if (chart) chart.destroy(); // Destroy the previous chart if it exists
+
+            chart = new Chart(ctx, {
+                type: 'bar',  // Bar chart
+                data: {
+                    labels: Object.keys(categories),
+                    datasets: [{
+                        data: Object.values(categories),
+                        backgroundColor: [
+                            '#FF6384', '#36A2EB', '#FFCE56',
+                            '#4BC0C0', '#9966FF', '#FF9F40',
+                            '#C9CBCF', '#FF9CEE', '#A7F3C1', '#FF6F61'
+                        ]
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: { enabled: true }
+                    },
+                    scales: {
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Categories'
+                            }
+                        },
+                        y: {
+                            title: {
+                                display: true,
+                                text: 'Cost (€)'
+                            },
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        }
+    </script>
+
+</body>
+</html>
+
+      

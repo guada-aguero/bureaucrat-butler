@@ -1,0 +1,43 @@
+<!-- Bot Icon Trigger -->
+<div id="bot-icon-container" onclick="openChatbot()">
+    <img src="{{ url_for('static', filename='bot-icon.png') }}" alt="Bot Icon" id="bot-icon">
+    <div class="tooltip">Ask me about visas and documents!</div>
+</div>
+
+<!-- Modal for Chatbot -->
+<div id="chatbotModal" style="display: none;">
+    <div class="modal-content">
+        <span class="close" onclick="closeChatbot()">&times;</span>
+        <h1>Bureaucrat Butler</h1>
+        <h2>Ask about visas or documents!</h2>
+        <input type="text" id="query" placeholder="Ask me anything...">
+        <button onclick="askQuestion()">Submit</button>
+        <div id="answer" class="answer"></div>
+    </div>
+</div>
+
+<script>
+    // Function to open the chatbot modal
+    function openChatbot() {
+        const chatbotModal = document.getElementById('chatbotModal');
+        chatbotModal.style.display = 'block';
+    }
+
+    // Function to close the chatbot modal
+    function closeChatbot() {
+        const chatbotModal = document.getElementById('chatbotModal');
+        chatbotModal.style.display = 'none';
+    }
+
+    // Function to handle the question submission
+    async function askQuestion() {
+        const query = document.getElementById('query').value;
+        const response = await fetch('/ask', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ query })
+        });
+        const data = await response.json();
+        document.getElementById('answer').innerHTML = data.answer;
+    }
+</script>

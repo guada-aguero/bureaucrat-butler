@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cost of Living Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+    <div class="dashboard-container">
+        <h1>Cost of Living Dashboard</h1>
+
+        <form id="dashboard-form">
+            <label for="city">Select City:</label>
+            <select id="city" name="city">
+                <!-- Cities will be dynamically populated here -->
+            </select>
+
+            <button type="button" onclick="updateDashboard()">Submit</button>
+        </form>
+
+        <!-- Canvas for Chart -->
+        <canvas id="cost-chart"></canvas>
+
+        <!-- Section for Detailed Costs -->
+        <div class="cost-breakdown">
+            <h3>Detailed Cost Breakdown</h3>
+            <ul id="cost-details"></ul>
+        </div>
+
+    </div>
+
+    <!-- Back to Home Button at the Bottom -->
+    <div class="back-home-container">
+        <button onclick="window.location.href='/'" class="back-home-btn">Back to Home</button>
+    </div>
+
+    <script>
+        let chart;
+
+        async function updateDashboard() {
+            const city = document.getElementById('city').value;
+
+            // Fetch the data from the backend
+            const response = await fetch('/dashboard-data', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ city })
+            });
+
+            const data = await response.json();
+            
+            if (data.prices) {
+                // Process categories and create the chart
+                const categories = processCategories(data.prices);
+                createChart(categories);
+                updateDetails(categories);
+            } else {
+                console.error('No data available.');
+            }
+        }
+
+        // Function to process API data into categories
+        function processCategories(prices) {
+            const categories = {};
+            prices.forEach(item => {
+                if (!categories[item.category_name]) {
+                    categories[item.category_name] = [];
+                }
+                categories[item.category_name].push({
+                    name: item.item_name,
+                    min: item.min,
+                    avg: item.avg,
+                    max: item.max
+                });
+            });
+            return categories;
+        }
+
+        // Function to create a bar chart
+        function createChart(categories) {
+            const ctx = document.getElementById('cost-chart').getContext('2d');
+            if (chart) chart.destroy();
+                
+            const labels = Object.keys(categories);
+            const avgPrices = labels.map(label => {
+                const categoryItems = categories[label];
+                return categoryItems.reduce((sum, item) => sum + item.avg, 0) / categoryItems.length;
+            });
+        
+            // Define an array of colors for the bars
+            const colors = [
+                '#FF6384', // Red
+                '#36A2EB', // Blue
+                '#FFCE56', // Yellow
+                '#4BC0C0', // Teal
+                '#9966FF', // Purple
+                '#FF9F40', // Orange
+                '#FF6384', // Red (repeated for more categories)
+                '#36A2EB'  // Blue (repeated)
+            ];
+        
+            chart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels,
+                    datasets: [{
+                        data: avgPrices,
+                        backgroundColor: colors.slice(0, labels.length), // Use only the number of colors necessary
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        x: { title: { display: true, text: 'Categories' } },
+                        y: {
+                            title: { display: true, text: 'Average Cost (€)' },
+                            beginAtZero: true
+                        }
+                    },
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: { enabled: true }
+                    }
+                }
+            });
+        }
+
+        // Function to update the cost breakdown details
+        function updateDetails(categories) {
+            const detailsContainer = document.getElementById('cost-details');
+            detailsContainer.innerHTML = '';
+
+            Object.entries(categories).forEach(([category, items]) => {
+                const categoryHeader = document.createElement('h4');
+                categoryHeader.textContent = category;
+                detailsContainer.appendChild(categoryHeader);
+
+                items.forEach(item => {
+                    const listItem = document.createElement('li');
+                    listItem.className = category.toLowerCase().replace(/\s/g, '-'); // Add class based on category
+                    listItem.textContent = `${item.name} - Min: €${item.min.toFixed(2)}, Avg: €${item.avg.toFixed(2)}, Max: €${item.max.toFixed(2)}`;
+                    detailsContainer.appendChild(listItem);
+                });
+            });
+        }
+
+        // Function to fetch and populate cities dynamically
+        async function fetchPortugalCities() {
+            try {
+                const response = await fetch('/fetch-portugal-cities');
+                const data = await response.json();
+
+                const citySelect = document.getElementById('city');
+                citySelect.innerHTML = '';  // Clear any previous options
+
+                // Populate the dropdown with cities in Portugal
+                data.cities.forEach(city => {
+                    const option = document.createElement('option');
+                    option.value = city.city_name;
+                    option.text = city.city_name;
+                    citySelect.appendChild(option);
+                });
+            
+            } catch (error) {
+                console.error('Error fetching cities:', error);
+            }
+        }
+
+        // Fetch cities when the page loads
+        window.addEventListener('load', fetchPortugalCities);
+
+    </script>
+
+    <!-- Include chatbot -->
+    {% include 'chatbot.html' %}
+
+</body>
+</html>

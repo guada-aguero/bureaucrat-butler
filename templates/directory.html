@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Directory of Public Offices and Embassies</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container directory-container">
+        <h1>Directory of Public Offices and Embassies</h1>
+
+        <div class="directory-section">
+            <button class="accordion menu-btn">Finance Offices</button>
+            <div class="panel scrollable-panel">
+                {% if finance_offices %}
+                    {% for office in finance_offices %}
+                        <div class="office-entry">
+                            <p><strong>{{ office.place_name }}</strong></p>
+                            <p>{{ office.address }}</p>
+                            <a href="/poi-map?place_name={{ office.place_name }}" class="map-link" target="_blank">View on Map</a>
+                        </div>
+                    {% endfor %}
+                {% else %}
+                    <p>No finance offices available.</p>
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="directory-section">
+            <button class="accordion menu-btn">Social Security Offices</button>
+            <div class="panel scrollable-panel">
+                {% if ss_offices %}
+                    {% for office in ss_offices %}
+                        <div class="office-entry">
+                            <p><strong>{{ office.name }}</strong></p>
+                            <p>{{ office.address }}</p>
+                            <a href="/poi-map?place_name={{ office.name }}" class="map-link" target="_blank">View on Map</a>
+                        </div>
+                    {% endfor %}
+                {% else %}
+                    <p>No social security offices available.</p>
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="directory-section">
+            <button class="accordion menu-btn">AIMA Offices</button>
+            <div class="panel scrollable-panel">
+                {% if aima_offices %}
+                    {% for office in aima_offices %}
+                        <div class="office-entry">
+                            <p><strong>{{ office.name }}</strong></p>
+                            <p>{{ office.address }}</p>
+                            <a href="/poi-map?place_name={{ office.name }}" class="map-link" target="_blank">View on Map</a>
+                        </div>
+                    {% endfor %}
+                {% else %}
+                    <p>No AIMA offices available.</p>
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="directory-section">
+            <button class="accordion menu-btn">Embassies in Portugal</button>
+            <div class="panel scrollable-panel">
+                {% if embassies_in_portugal %}
+                    {% for embassy in embassies_in_portugal %}
+                        <div class="office-entry">
+                            <p><strong>{{ embassy.embassy }}</strong></p>
+                            <p>{{ embassy.address }}</p>
+                            <a href="/poi-map?place_name={{ embassy.embassy }}" class="map-link" target="_blank">View on Map</a>
+                        </div>
+                    {% endfor %}
+                {% else %}
+                    <p>No embassies available in Portugal.</p>
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="directory-section">
+            <button class="accordion menu-btn">Portuguese Embassies Abroad</button>
+            <div class="panel scrollable-panel">
+                {% if portuguese_embassies_abroad %}
+                    {% for embassy in portuguese_embassies_abroad %}
+                        <div class="office-entry">
+                            <p><strong>{{ embassy.embassy_name }}</strong></p>
+                            <p>{{ embassy.country }}</p>
+                            {% if embassy.url %}
+                                {% if embassy.url.startswith('mailto:') %}
+                                    <p><strong>Email:</strong> <a href="{{ embassy.url }}">{{ embassy.url[7:] }}</a></p>
+                                {% else %}
+                                    <p><strong>Website:</strong> <a href="{{ embassy.url }}" target="_blank">{{ embassy.url }}</a></p>
+                                {% endif %}
+                            {% else %}
+                                <p>No contact information available.</p>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+                {% else %}
+                    <p>No Portuguese embassies abroad available.</p>
+                {% endif %}
+            </div>
+        </div>
+
+        <!-- Back to Home Button -->
+        <div class="back-home-container">
+            <button onclick="window.location.href='/'" class="back-home-btn">Back to Home</button>
+        </div>
+    </div>
+
+    <script>
+        // Accordion Functionality
+        var acc = document.getElementsByClassName("accordion");
+        for (var i = 0; i < acc.length; i++) {
+            acc[i].addEventListener("click", function() {
+                this.classList.toggle("active");
+                var panel = this.nextElementSibling;
+                if (panel.style.maxHeight) {
+                    panel.style.maxHeight = null;
+                } else {
+                    panel.style.maxHeight = panel.scrollHeight + "px";
+                } 
+            });
+        }
+    </script>
+
+    <!-- Include chatbot -->
+    {% include 'chatbot.html' %}
+</body>
+</html>

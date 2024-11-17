@@ -1,0 +1,3064 @@
+[
+    {
+        "name": "BALCÃO DA INCLUSÃO DE AVEIRO",
+        "address": "Rua Dr. Alberto Soares Machado, 3804-504, Aveiro",
+        "lat": 40.6438434,
+        "lng": -8.6492306,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DA ANADIA",
+        "address": "Edifício Serviços de Proximidade - Praça da Juventude, 3780-323, Anadia",
+        "lat": 40.4429268,
+        "lng": -8.4350455,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE AVEIRO",
+        "address": "Rua Dr. Orlando Oliveira, 41 a 47, Forca-Vouga, 3800-990, Aveiro",
+        "lat": 40.6386993,
+        "lng": -8.6392904,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE CASTELO DE PAIVA",
+        "address": "Palácio da Justiça - Largo Prof. Joaquim Quintas, 67, 4550-100, Castelo de Paiva",
+        "lat": 41.0410452,
+        "lng": -8.2699902,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DE AVEIRO",
+        "address": "Rua Dr. Alberto Soares Machado, 3804 - 504, Aveiro",
+        "lat": 40.6438434,
+        "lng": -8.6492306,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO TEMPORÁRIO DE MOZELOS",
+        "address": "Edifício da Junta de Freguesia de Mozelos - Rua Dr. Amorim, 312, 4535-211, Mozelos",
+        "lat": 40.9989024,
+        "lng": -8.566328900000002,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA MEALHADA",
+        "address": "Rua José Branquinho de Carvalho, 3050-335, Mealhada",
+        "lat": 40.3789925,
+        "lng": -8.4525141,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SEDE DE AVEIRO",
+        "address": "Rua Dr. Alberto Soares Machado, 3804-504, Aveiro",
+        "lat": 40.6438434,
+        "lng": -8.6492306,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ALBERGARIA-A-VELHA",
+        "address": "Edifício da Casa do Povo - Rua Egas Moniz, Bloco 4, R/C Dto, 3850-043, Albergaria-a-Velha",
+        "lat": 40.6879089,
+        "lng": -8.4803642,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AROUCA",
+        "address": "Edifício da Casa do Povo - Rua dos Descobrimentos, 1, 4540-104, Arouca",
+        "lat": 40.9300362,
+        "lng": -8.250645,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ESPINHO",
+        "address": "Rua 16, Mercado Municipal, 1º andar, 4500-241, Espinho",
+        "lat": 41.0094144,
+        "lng": -8.6413746,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ESTARREJA",
+        "address": "Rua Desembargador Correia Teles, 8, 3860-362, Estarreja",
+        "lat": 40.7530361,
+        "lng": -8.571883099999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE FIÃES",
+        "address": "Rua Padre Manuel Francisco Sá, 4505-369, Fiães",
+        "lat": 40.9879981,
+        "lng": -8.5240077,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MURTOSA",
+        "address": "Edifício da Casa do Povo - Zona da Acabada, Bloco 4, R/C Dto., 3870-101, Murtosa",
+        "lat": 40.7637898,
+        "lng": -8.671060299999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE OLIVEIRA DE AZEMÉIS",
+        "address": "Rua D. Manuel Brandão, 57, 3720-252, Oliveira de Azeméis",
+        "lat": 40.8363647,
+        "lng": -8.479133599999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE OLIVEIRA DO BAIRRO",
+        "address": "Edifício Bela Vista - Rua Dr. Miguel França Martins, 34, 3770-222, Oliveira do Bairro",
+        "lat": 40.513166,
+        "lng": -8.4887078,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE OVAR",
+        "address": "Avenida Dr. Nunes da Silva, Alto de Saboga, Edifício Casa dos Pescadores, 3880-115, Ovar",
+        "lat": 40.8572836,
+        "lng": -8.6318695,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE RAIVA",
+        "address": "Rua Marcelle Tyssen, 103, 4550-594, Castelo de Paiva",
+        "lat": 41.0363247,
+        "lng": -8.3405837,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SANTA MARIA DA FEIRA",
+        "address": "Rua Dr. Elísio de Castro, 35, 4520-213, Santa Maria da Feira",
+        "lat": 40.9269062,
+        "lng": -8.543495199999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SEVER DO VOUGA",
+        "address": "Edifício da Casa do Povo - Rua do Silveirinho, 50, 3740-237, Sever do Vouga",
+        "lat": 40.7334189,
+        "lng": -8.371767199999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SÃO JOÃO DA MADEIRA",
+        "address": "Avenida Dr. Renato Araújo, 145, R/C, 3700-243, São João da Madeira",
+        "lat": 40.8953763,
+        "lng": -8.493978799999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VAGOS",
+        "address": "Rua Dr. Mendes Correia Pai, 112, Fracção B, R/C, 3840-443, Vagos",
+        "lat": 40.5524573,
+        "lng": -8.680547599999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VALE DE CAMBRA",
+        "address": "Edifício Paços do Concelho - Avenida Camilo Tavares Matos, 458, 3730-240, Vale de Cambra",
+        "lat": 40.8501154,
+        "lng": -8.3935583,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ÁGUEDA",
+        "address": "Rua Comandante Pinho e Freitas, 46, 3750-127, Águeda",
+        "lat": 40.5744271,
+        "lng": -8.4424637,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ÍLHAVO",
+        "address": "Rua Arcebispo Pereira Bilhano, Edifício Iliabum Clube, 3830-111, Ílhavo",
+        "lat": 40.5985434,
+        "lng": -8.6675828,
+        "type": "ss_offices"
+    },
+    {
+        "name": "BALCÃO DA INCLUSÃO DE BEJA",
+        "address": "Rua Prof. Bento de Jesus Caraça, 25, 7800-511, Beja",
+        "lat": 38.0090162,
+        "lng": -7.856148999999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE SERPA",
+        "address": "Rua José Maria da Graça Afreixo, Lote 5, 7830-358, Serpa",
+        "lat": 37.9405006,
+        "lng": -7.601465499999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DE BEJA",
+        "address": "Rua Prof. Bento de Jesus Caraça, n.º 25, 7800-511, Beja",
+        "lat": 38.0084469,
+        "lng": -7.8558542,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SEDE DE BEJA",
+        "address": "Rua Prof. Bento de Jesus Caraça, 25, 7800-511, Beja",
+        "lat": 38.0090162,
+        "lng": -7.856148999999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA VIDIGUEIRA",
+        "address": "Rua 25 de Abril, 24, 7960-228, Vidigueira",
+        "lat": 38.2117271,
+        "lng": -7.799410200000001,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ALJUSTREL",
+        "address": "Ver Observações. Praça 13 de Janeiro, 11, 7600-044, Aljustrel",
+        "lat": 37.879587,
+        "lng": -8.1641885,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ALMODÔVAR",
+        "address": "Rua do Convento, 7700-263, Almodôvar",
+        "lat": 37.5132273,
+        "lng": -8.059104,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ALVITO",
+        "address": "Avenida dos Bombeiros Voluntários, 1, 7920-011, Alvito",
+        "lat": 38.2580405,
+        "lng": -7.9942445,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE BARRANCOS",
+        "address": "Rua das Fontainhas, 3, 7230-018, Barrancos",
+        "lat": 38.1309716,
+        "lng": -6.976649699999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE CASTRO VERDE",
+        "address": "Rua António Enes, 6, 7780-144, Castro Verde",
+        "lat": 37.6976441,
+        "lng": -8.0845237,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE CUBA",
+        "address": "Rua 1.º de Maio, 7940-121, Cuba",
+        "lat": 38.1646583,
+        "lng": -7.8953277,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE FERREIRA DO ALENTEJO",
+        "address": "Praça de Santa Maria Madalena, 1, 7900-574, Ferreira do Alentejo",
+        "lat": 38.0596261,
+        "lng": -8.1171469,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MOURA",
+        "address": "Travessa da Misericórdia, 7860-072, Moura",
+        "lat": 38.1430975,
+        "lng": -7.4495971,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MÉRTOLA",
+        "address": "Rua B - Paralela à Avenida Aureliano Mira Fernandes, 7750-320, Mértola",
+        "lat": 37.6430371,
+        "lng": -7.6597924,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ODEMIRA",
+        "address": "Rua Sousa Prado, 19, 7630-176, Odemira",
+        "lat": 37.59775070000001,
+        "lng": -8.6429563,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE OURIQUE",
+        "address": "Rua 25 de Abril, 33, 7670-250, Ourique",
+        "lat": 37.65199399999999,
+        "lng": -8.2265795,
+        "type": "ss_offices"
+    },
+    {
+        "name": "BALCÃO DA INCLUSÃO DE BRAGA",
+        "address": "Praça da Justiça, 4719-003, Braga",
+        "lat": 41.547933,
+        "lng": -8.4129693,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE BRAGA",
+        "address": "Rua dos Granjinhos, 6 - S. José de S. Lázaro, 4700-352, Braga",
+        "lat": 41.5475053,
+        "lng": -8.4218084,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE VILA NOVA DE FAMALICÃO",
+        "address": "Rua António Carvalho Faria, 80, 4760-121, Vila Nova de Famalicão",
+        "lat": 41.4102397,
+        "lng": -8.517477099999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DE BRAGA",
+        "address": "Praça da Justiça, 4719 - 003, Braga",
+        "lat": 41.547933,
+        "lng": -8.4129693,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SEDE DE BRAGA",
+        "address": "Praça da Justiça, 4719-003, Braga",
+        "lat": 41.547933,
+        "lng": -8.4129693,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AMARES",
+        "address": "Rua José Alves Leite, 52, 4720-022, Amares",
+        "lat": 41.63116309999999,
+        "lng": -8.3552445,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DE VILA NOVA DE FAMALICÃO",
+        "address": "Alameda Luís de Camões, R/C, CV - Santo Adrião, 4760-100, Vila Nova de Famalicão",
+        "lat": 41.4067386,
+        "lng": -8.52132,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE BARCELOS",
+        "address": "Travessa Simplício de Sousa, 24, 1º, Edifício Bela Vista - Santa Maria Maior, 4750-335, Barcelos",
+        "lat": 41.5309955,
+        "lng": -8.616444600000001,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE CABECEIRAS DE BASTO",
+        "address": "Rua João Paulo II – Refojos de Basto, 4860-360, Cabeceiras de Basto",
+        "lat": 41.5156786,
+        "lng": -7.993751400000001,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE CELORICO DE BASTO",
+        "address": "Avenida João Pinto Ribeiro - Britelo, 4890-221, Celorico de Basto",
+        "lat": 41.385056,
+        "lng": -8.0007209,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ESPOSENDE",
+        "address": "Praça Henrique Medina, Urbanização A, Zão, Bloco 3, 4740-225, Esposende",
+        "lat": 41.5322378,
+        "lng": -8.777736,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE FAFE",
+        "address": "Avenida Antero de Quental, 21, 4820-116, Fafe",
+        "lat": 41.4513569,
+        "lng": -8.1652,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE GUIMARÃES",
+        "address": "Largo Martins Sarmento - Oliveira do Castelo, 4810-241, Guimarães",
+        "lat": 41.446012,
+        "lng": -8.2924982,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PÓVOA DO LANHOSO",
+        "address": "Rua António Francês - Nossa Senhora do Amparo, 4830-577, Póvoa do Lanhoso",
+        "lat": 41.5759922,
+        "lng": -8.2640218,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE TERRAS DE BOURO",
+        "address": "Rua Dr. Domingos Maria Silva, 99 - Moimenta, 4840-100, Terras de Bouro",
+        "lat": 41.714771,
+        "lng": -8.305251499999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VIEIRA DO MINHO",
+        "address": "Praça Guilherme de Abreu - Edifício da Câmara Municipal de Vieira do Minho, 4850-527, Vieira do Minho",
+        "lat": 41.6343217,
+        "lng": -8.1397922,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VILA VERDE",
+        "address": "Rua Dr. Domingos Oliveira Lopes, 4730-703, Vila Verde",
+        "lat": 41.6498225,
+        "lng": -8.4328992,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VIZELA",
+        "address": "Rua da Portela, 25, 4815-073, Vizela",
+        "lat": 41.3717332,
+        "lng": -8.2978951,
+        "type": "ss_offices"
+    },
+    {
+        "name": "BALCÃO DA INCLUSÃO DE BRAGANÇA",
+        "address": "Avenida General Humberto Delgado, 5301-859, Bragança",
+        "lat": 41.8090089,
+        "lng": -6.7657854,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE VIMIOSO",
+        "address": "Avenida de Alcanices, Pavilhão Multiuso, 5230-308, Vimioso",
+        "lat": 41.5844451,
+        "lng": -6.529121099999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DE BRAGANÇA",
+        "address": "Av. General Humberto Delgado, 5300 - 167, Bragança",
+        "lat": 41.8089613,
+        "lng": -6.7653801,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SEDE DE BRAGANÇA",
+        "address": "Avenida General Humberto Delgado, 5301-859, Bragança",
+        "lat": 41.8090089,
+        "lng": -6.7657854,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ALFÂNDEGA DA FÉ",
+        "address": "Rua da Escola Preparatória, 5350 – 023, Alfândega da Fé",
+        "lat": 41.3429338,
+        "lng": -6.9618421,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE CARRAZEDA DE ANSIÃES",
+        "address": "Avenida Engº Camilo Mendonça, 155, 5140-078, Carrazeda de Ansiães",
+        "lat": 41.2444285,
+        "lng": -7.303590499999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE FREIXO DE ESPADA À CINTA",
+        "address": "Avenida do Emigrante, 5180-103, Freixo de Espada à Cinta",
+        "lat": 41.0900183,
+        "lng": -6.8094604,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MACEDO DE CAVALEIROS",
+        "address": "Avenida Dom Nuno Álvares Pereira, 5340-202, Macedo de Cavaleiros",
+        "lat": 41.5348783,
+        "lng": -6.9573567,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MIRANDA DO DOURO",
+        "address": "Rua D. Dinis, 5210-217, Miranda do Douro",
+        "lat": 41.4969535,
+        "lng": -6.2740221,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MIRANDELA",
+        "address": "Praça Coronel Eduardo Faria, bloco 3, R/C, 5370-285, Mirandela",
+        "lat": 41.4861808,
+        "lng": -7.1901192,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MOGADOURO",
+        "address": "Avenida Sabor, 35, R/C, 5200-204, Mogadouro",
+        "lat": 41.34345160000001,
+        "lng": -6.7101557,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE TORRE DE MONCORVO",
+        "address": "Avenida Combatentes da Grande Guerra, 5160 – 217, Torre de Moncorvo",
+        "lat": 41.1717371,
+        "lng": -7.0533834,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VILA FLOR",
+        "address": "Avenida Marechal Carmona, 57, 5360-303, Vila Flor",
+        "lat": 41.3090546,
+        "lng": -7.1544067,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VINHAIS",
+        "address": "Rua Dr. Álvaro Leite, 3, 5320-332, Vinhais",
+        "lat": 41.8309287,
+        "lng": -7.008918,
+        "type": "ss_offices"
+    },
+    {
+        "name": "BALCÃO DA INCLUSÃO DE CASTELO BRANCO",
+        "address": "Rua da Carapalha, 2A, 6000-164, Castelo Branco",
+        "lat": 39.8202209,
+        "lng": -7.487462799999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE BELMONTE",
+        "address": "Largo dos Bombeiros Voluntários, 6250-030, Belmonte",
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE CASTELO BRANCO",
+        "address": "Rua do Saibreiro, 6000-197, Castelo Branco",
+        "lat": 39.8235992,
+        "lng": -7.490189,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE VILA VELHA DE RÓDÃO",
+        "address": "Rua de Santana, 1061, R/C, 6030-230, Vila Velha de Ródão",
+        "lat": 39.6590685,
+        "lng": -7.677776700000001,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE VILA DE REI",
+        "address": "Praça do Município, Edifício Paços do Concelho, Fração C, R/C, 6110-174, Vila de Rei",
+        "lat": 39.6758453,
+        "lng": -8.1457625,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DE CASTELO BRANCO",
+        "address": "Rua da Carapalha, n.º 2 - A, 6000-164, Castelo Branco",
+        "lat": 39.8196699,
+        "lng": -7.4878649,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA COVILHÃ",
+        "address": "Rua Conde Ericeira, 28, 6200-086, Covilhã",
+        "lat": 40.275534,
+        "lng": -7.500365500000001,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SEDE DE CASTELO BRANCO",
+        "address": "Rua da Carapalha, 2A, 6000-164, Castelo Branco",
+        "lat": 39.8202209,
+        "lng": -7.487462799999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SERTÃ",
+        "address": "Rua de Proença-a-Nova, 113, 6100-751, Sertã",
+        "lat": 39.800769,
+        "lng": -8.095813,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE IDANHA-A-NOVA",
+        "address": "Rua Vaz Preto, 120, 6060-126, Idanha-a-Nova",
+        "lat": 39.9222966,
+        "lng": -7.236767899999998,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE OLEIROS",
+        "address": "Praça do Município, Edifício Paços do Concelho, R/C, 6160-409, Oleiros",
+        "lat": 39.9160229,
+        "lng": -7.9157099,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PENAMACOR",
+        "address": "Rua Nova de Santo António, 35, 6090-579, Penamacor",
+        "lat": 40.4198408,
+        "lng": -7.699151499999998,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PROENÇA-A-NOVA",
+        "address": "Rua do Loureiro, 2, 6150-431, Proença-a-Nova",
+        "lat": 39.7487207,
+        "lng": -7.925639899999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DO FUNDÃO",
+        "address": "Rua Cidade da Covilhã, 8, 6230-346, Fundão",
+        "lat": 40.1498316,
+        "lng": -7.4989626,
+        "type": "ss_offices"
+    },
+    {
+        "name": "BALCÃO DA INCLUSÃO DE COIMBRA",
+        "address": "Rua Abel Dias Urbano, 2, R/C, 3004-519, Coimbra",
+        "lat": 40.214827,
+        "lng": -8.436843699999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE CANTANHEDE",
+        "address": "Rua dos Bombeiros Voluntários, 7, 3064-001, Cantanhede",
+        "lat": 40.3470303,
+        "lng": -8.590113600000002,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE COIMBRA",
+        "address": "Avenida Central, 16, 18 e 20 (à Avenida Fernão de Magalhães), 3000-607, Coimbra",
+        "lat": 40.2158977,
+        "lng": -8.435793000000002,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DE COIMBRA",
+        "address": "Rua Abel Dias Urbano, n.º 2, R/C, 3004-519, Coimbra",
+        "lat": 40.190351,
+        "lng": -8.4653312,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA FIGUEIRA DA FOZ",
+        "address": "Rua Dr. Santos Rocha, 107 a 109, 3080-124, Figueira da Foz",
+        "lat": 40.1516692,
+        "lng": -8.856879,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA LOUSÃ",
+        "address": "Rua Dr. Francisco Fernandes Costa, 18A e 18B, R/C, 3200-265, Lousã",
+        "lat": 40.1135018,
+        "lng": -8.246077,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA PAMPILHOSA DA SERRA",
+        "address": "Rua Rangel Lima, Edifício Multiusos Nunes Pereira, R/C, 3320-229, Pampilhosa da Serra",
+        "lat": 40.0479046,
+        "lng": -7.9516806,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SEDE DE COIMBRA",
+        "address": "Rua Abel Dias Urbano, 2, R/C, 3004-519, Coimbra",
+        "lat": 40.214827,
+        "lng": -8.436843699999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ARGANIL",
+        "address": "Avenida das Forças Armadas, 3300-011, Arganil",
+        "lat": 40.2199876,
+        "lng": -8.0530188,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE CONDEIXA-A-NOVA",
+        "address": "Rua dos Combatentes da Grande Guerra, 2, 3150-134, Condeixa-a-Nova",
+        "lat": 40.1240034,
+        "lng": -8.5026764,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE GÓIS",
+        "address": "Urbanização Quinta da Lavra, 10, 3330-354, Góis",
+        "lat": 40.1572681,
+        "lng": -8.1106277,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MIRA",
+        "address": "Avenida 25 de Abril, 3070-301, Mira",
+        "lat": 41.3798239,
+        "lng": -8.7463359,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MIRANDA DO CORVO",
+        "address": "Avenida 25 de Abril, 30, 3220-185, Miranda do Corvo",
+        "lat": 40.0897909,
+        "lng": -8.328647499999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MONTEMOR-O-VELHO",
+        "address": "Rua José Galvão, 3140-271, Montemor-o-Velho",
+        "lat": 40.1746928,
+        "lng": -8.6820911,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE OLIVEIRA DO HOSPITAL",
+        "address": "Rua Professor Antunes Varela, 7, 3400-133, Oliveira do Hospital",
+        "lat": 40.3614306,
+        "lng": -7.859278799999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PENACOVA",
+        "address": "Rua de Santo António, 2, 3360-337, Penacova",
+        "lat": 40.2704883,
+        "lng": -8.28054,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PENELA",
+        "address": "Largo da Misericórdia, 3230-258, Penela",
+        "lat": 40.0282938,
+        "lng": -8.390568499999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SOURE",
+        "address": "Largo Conde Ferreira, 3130-212, Soure",
+        "lat": 40.0581766,
+        "lng": -8.627454,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE TÁBUA",
+        "address": "Edifício do Mercado Municipal - Rua Aurora de Jesus Gonçalves, 3420-313, Tábua",
+        "lat": 40.3656384,
+        "lng": -8.0356087,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VILA NOVA DE POIARES",
+        "address": "Rua Heróis de Quimbele, 3350-165, Vila Nova de Poiares",
+        "lat": 40.2097228,
+        "lng": -8.2592591,
+        "type": "ss_offices"
+    },
+    {
+        "name": "BALCÃO DA INCLUSÃO DE ÉVORA",
+        "address": "Rua Chafariz D'El Rei, 22, 7005-323, Évora",
+        "lat": 38.5668947,
+        "lng": -7.902537700000001,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE BORBA",
+        "address": "Largo da Liberdade, 7150-102, Borba",
+        "lat": 38.8069815,
+        "lng": -7.4554406,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DE ÉVORA",
+        "address": "Rua do Raimundo n.º 95, F e G, 7000 - 661, Évora",
+        "lat": 38.5692756,
+        "lng": -7.9115049,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SEDE DE ÉVORA",
+        "address": "Rua Chafariz D'El Rei, 22, 7005-323, Évora",
+        "lat": 38.5668947,
+        "lng": -7.902537700000001,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ALANDROAL",
+        "address": "Praça da República, 29B, 7250-116, Alandroal",
+        "lat": 38.7021331,
+        "lng": -7.4036488,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ARRAIOLOS",
+        "address": "Rua Cunha Rivara, 7A, 7040-033, Arraiolos",
+        "lat": 38.7247223,
+        "lng": -7.984689199999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DE ÉVORA",
+        "address": "Rua Chafariz D'El Rei, 27, 7005-323, Évora",
+        "lat": 38.5661907,
+        "lng": -7.902561299999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ESTREMOZ",
+        "address": "Praça Dr. José Dias Sena, 1, 7100-123, Estremoz",
+        "lat": 38.8675893,
+        "lng": -7.5680595,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MONTEMOR-O-NOVO",
+        "address": "Avenida Gago Coutinho, 61 a 63, 7050-099, Montemor-O-Novo",
+        "lat": 38.6485509,
+        "lng": -8.2125323,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MORA",
+        "address": "Rua Manuel José Godinho, 7490-246, Mora",
+        "lat": 38.9443018,
+        "lng": -8.1634233,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MOURÃO",
+        "address": "Largo das Portas de São Bento, 7240-263, Mourão",
+        "lat": 38.3821163,
+        "lng": -7.3461269,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PORTEL",
+        "address": "Rua da Vidigueira, 5B, 7220-390, Portel",
+        "lat": 38.3076119,
+        "lng": -7.7054556,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE REDONDO",
+        "address": "Rua Eng.º Duarte Pacheco, 10, 7170-008, Redondo",
+        "lat": 38.6470053,
+        "lng": -7.5479523,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE REGUENGOS DE MONSARAZ",
+        "address": "Avenida do Alentejo, 3, 7200-399, Reguengos de Monsaraz",
+        "lat": 38.4267526,
+        "lng": -7.5485218,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VENDAS NOVAS",
+        "address": "Rua Estevão de Almeida, 4, R/C, 7080-079, Vendas Novas",
+        "lat": 38.6786594,
+        "lng": -8.4609352,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VERIFICAÇÃO DE INCAPACIDADES DE ÉVORA",
+        "address": "Rua Ferragial do Poço Novo, 22, 7005-208, Évora",
+        "lat": 38.5790811,
+        "lng": -7.909703,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VIANA DO ALENTEJO",
+        "address": "Rua Padre Luís Cruz, 15, 7090-284, Viana do Alentejo",
+        "lat": 38.3336985,
+        "lng": -8.002051999999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VILA VIÇOSA",
+        "address": "Rua Dr. Couto Jardim, 47, R/C, 7160-263, Vila Viçosa",
+        "lat": 38.7807769,
+        "lng": -7.420409299999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "BALCÃO DA INCLUSÃO DE FARO",
+        "address": "Rua Pintor Carlos Porfírio, 35, 8000-241, Faro",
+        "lat": 37.0139607,
+        "lng": -7.9249422,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE FARO",
+        "address": "Mercado Municipal de Faro - Largo Dr. Francisco Sá Carneiro, 8000-151, Faro",
+        "lat": 37.0198836,
+        "lng": -7.9287722,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DE FARO",
+        "address": "Rua Pintor Carlos Porfirio, n.º 35, 8000-241, FARO",
+        "lat": 37.014432,
+        "lng": -7.9252398,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SEDE DE FARO",
+        "address": "Rua Pintor Carlos Porfírio, 35, 8000-241, Faro",
+        "lat": 37.0139607,
+        "lng": -7.9249422,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ALBUFEIRA",
+        "address": "Urbanização Habijovem - Quinta da Palmeira, Bloco C, Piso 0, Loja DD, 8200-001, Albufeira",
+        "lat": 37.0987248,
+        "lng": -8.2415693,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ALCOUTIM",
+        "address": "Avenida Fernando Lopes Dias, 8970-064, Alcoutim",
+        "lat": 37.4689817,
+        "lng": -7.4735957,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ALJEZUR",
+        "address": "Igreja Nova - Rua da Escola, 7, 8670-055, Aljezur",
+        "lat": 37.31657,
+        "lng": -8.7992645,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE CASTRO MARIM",
+        "address": "Bairro Social Cercado do Poço da Ordem, Lote 33, 8950-125, Castro Marim",
+        "lat": 37.2194709,
+        "lng": -7.4427356,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE LAGOA",
+        "address": "Rua do Centro de Saúde, Lote 12, R/C, 8400-413, Lagoa",
+        "lat": 37.1370097,
+        "lng": -8.457735099999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE LAGOS",
+        "address": "Largo do Rossio de São João Batista, 8600-664, Lagos",
+        "lat": 37.1075222,
+        "lng": -8.6762273,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE LOULÉ",
+        "address": "Rua Voz de Loulé, Lote 6, R/C, Loja J, 8100-522, Loulé",
+        "lat": 37.1400466,
+        "lng": -8.016828199999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MONCHIQUE",
+        "address": "Rua de São Pedro, 8550-445, Monchique",
+        "lat": 37.3207514,
+        "lng": -8.5541219,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE OLHÃO",
+        "address": "Rua Bartolomeu Dias, Lote 3, R/C Esquerdo, 8700-371, Olhão",
+        "lat": 37.0321948,
+        "lng": -7.8379956,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PORTIMÃO",
+        "address": "Avenida Afonso Henriques, 8500-502, Portimão",
+        "lat": 37.1343917,
+        "lng": -8.5363876,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE QUARTEIRA",
+        "address": "Avenida Carlos Mota Pinto, Lote 12, Loja 1, 8125-110, Quarteira",
+        "lat": 37.0712259,
+        "lng": -8.1061676,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SILVES",
+        "address": "Rua do Correio, 8300-145, Silves",
+        "lat": 37.1877111,
+        "lng": -8.4415339,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SÃO BARTOLOMEU DE MESSINES",
+        "address": "Bairro da Barrada, 8375-100, São Bartolomeu de Messines",
+        "lat": 37.2568325,
+        "lng": -8.2917645,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SÃO BRÁS DE ALPORTEL",
+        "address": "Avenida da Liberdade, Lote 5, 8150-101, São Brás de Alportel",
+        "lat": 37.1563167,
+        "lng": -7.889317499999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE TAVIRA",
+        "address": "Rua da Comunidade Lusíada, 19, R/C, 8800-397, Tavira",
+        "lat": 37.12113799999999,
+        "lng": -7.647252000000001,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VILA REAL DE SANTO ANTÓNIO",
+        "address": "Rua Catarina Eufémia, 53A, 8900-255, Vila Real de Santo António",
+        "lat": 37.1963246,
+        "lng": -7.4211307,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VILA DO BISPO",
+        "address": "Sítio das Eiras, 8650-405, Vila do Bispo",
+        "lat": 37.0852115,
+        "lng": -8.9107091,
+        "type": "ss_offices"
+    },
+    {
+        "name": "BALCÃO DA INCLUSÃO DA GUARDA",
+        "address": "Avenida Coronel Orlindo de Carvalho, 6300-680, Guarda",
+        "lat": 40.5364332,
+        "lng": -7.2661966,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DA GUARDA",
+        "address": "Centro Comercial Vivaci - Avenida Bombeiros Voluntários Egitanienses, 5, 6300-523, Guarda",
+        "lat": 40.5405916,
+        "lng": -7.2663615,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DA GUARDA",
+        "address": "Av. Coronel Orlindo de Carvalho, 6300-680, Guarda",
+        "lat": 40.5364332,
+        "lng": -7.2661966,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SEDE DA GUARDA",
+        "address": "Av. Coronel Orlindo de Carvalho, 6300-680, Guarda",
+        "lat": 40.5364332,
+        "lng": -7.2661966,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AGUIAR DA BEIRA",
+        "address": "Rua Sá Carneiro, 7, 3570-081, Aguiar da Beira",
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ALMEIDA",
+        "address": "Bairro da Trigueira, 6350-209, Almeida",
+        "lat": 40.7254048,
+        "lng": -6.905594199999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE CELORICO DA BEIRA",
+        "address": "Rua da Corredoura, 29, 6360-335, Celorico da Beira",
+        "lat": 40.6349555,
+        "lng": -7.3931909,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE FIGUEIRA DE CASTELO RODRIGO",
+        "address": "Avenida Heróis Castelo Rodrigo, 6400-113, Figueira de Castelo Rodrigo",
+        "lat": 40.8925989,
+        "lng": -6.9613274,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE FORNOS DE ALGODRES",
+        "address": "Urbanização Sul, 6370-174, Fornos Algodres",
+        "lat": 40.6201957,
+        "lng": -7.539550699999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE GOUVEIA",
+        "address": "Rua de São Miguel do Outeiro, 6290-331, Gouveia",
+        "lat": 40.4913755,
+        "lng": -7.596355,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MANTEIGAS",
+        "address": "Rua Infantário Favo de Mel, Outeiro, 6260-138, Manteigas",
+        "lat": 40.4013958,
+        "lng": -7.5422152,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MÊDA",
+        "address": "Rua Bom Jesus dos Passos, 64, 6430-142, Mêda",
+        "lat": 40.965122,
+        "lng": -7.2605024,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PINHEL",
+        "address": "Rua Silva Gouveia, 30, 6400-455, Pinhel",
+        "lat": 40.7757724,
+        "lng": -7.0607463,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SABUGAL",
+        "address": "Rua do Cemitério, 6, 6320-359, Sabugal",
+        "lat": 40.348761,
+        "lng": -7.0878957,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SEIA",
+        "address": "Rua Capitão Dr. António Dias, 23, 6270-469, Seia",
+        "lat": 40.4175971,
+        "lng": -7.7098914,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE TRANCOSO",
+        "address": "Rua do Freixo Grande, 7, 6420-004, Trancoso",
+        "lat": 40.7764984,
+        "lng": -7.3490883,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VILA NOVA DE FOZ CÔA",
+        "address": "Rua D. Dinis, 1, 5150-580, Vila Nova de Foz Côa",
+        "lat": 41.0835597,
+        "lng": -7.1373877,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VILAR FORMOSO",
+        "address": "Rua Externato, 11, 6355-265, Vilar Formoso",
+        "lat": 40.6053457,
+        "lng": -6.8284658,
+        "type": "ss_offices"
+    },
+    {
+        "name": "BALCÃO DA INCLUSÃO DE LEIRIA",
+        "address": "Largo da República, 3, 2414-001, Leiria",
+        "lat": 39.7410181,
+        "lng": -8.8102347,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DA BATALHA",
+        "address": "Edifício Câmara Municipal da Batalha - Rua Infante D. Fernando, 2440-118, Batalha",
+        "lat": 39.6593956,
+        "lng": -8.8224539,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE ALVAIÁZERE",
+        "address": "Praça José Mendes Carvalho, 8, 3250-116, Alvaiázere",
+        "lat": 39.8225927,
+        "lng": -8.3777659,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE ANSIÃO",
+        "address": "Rua Combatentes da Grande Guerra, 9, 3240-133, Ansião",
+        "lat": 39.9123945,
+        "lng": -8.435424400000002,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE LEIRIA",
+        "address": "Largo das Forças Armadas, 21, R/C SS, 2400-143, Leiria",
+        "lat": 39.7452784,
+        "lng": -8.806592799999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE POMBAL",
+        "address": "Casa Agorreta - Praça Marquês de Pombal, 3100-449, Pombal",
+        "lat": 39.9128879,
+        "lng": -8.6309851,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DE LEIRIA",
+        "address": "Largo da República, n.º 3, 2414-001, Leiria",
+        "lat": 39.7410181,
+        "lng": -8.8102347,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA MARINHA GRANDE",
+        "address": "Avenida D. Dinis, 15, 2430-263, Marinha Grande",
+        "lat": 39.7514034,
+        "lng": -8.9295951,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA NAZARÉ",
+        "address": "Avenida Vieira Guimarães, 54, R/C, 2450-112, Nazaré",
+        "lat": 39.5991325,
+        "lng": -9.068534,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SEDE DE LEIRIA",
+        "address": "Largo da República, 3, 2414-001, Leiria",
+        "lat": 39.7410181,
+        "lng": -8.8102347,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DAS CALDAS DA RAINHA",
+        "address": "Rua António Sérgio, 52, R/C, 2500-130, Caldas da Rainha",
+        "lat": 39.4080015,
+        "lng": -9.1363029,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ALCOBAÇA",
+        "address": "Rua de Olivença, 2460-035, Alcobaça",
+        "lat": 39.5527166,
+        "lng": -8.9742981,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE CASTANHEIRA DE PÊRA",
+        "address": "Rua Silva Bernardes, 6, R/C, 3280-044, Castanheira de Pêra",
+        "lat": 40.0053362,
+        "lng": -8.212202999999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE FIGUEIRÓ DOS VINHOS",
+        "address": "Antiga Escola Primária - Avenida José Malhoa, 2, 3260-402, Figueiró dos Vinhos",
+        "lat": 39.90405000000001,
+        "lng": -8.2732934,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PEDRÓGÃO GRANDE",
+        "address": "Avenida Francisco Sá Carneiro - Edifício Polivalente, 36, R/C, 3270-092, Pedrógão Grande",
+        "lat": 39.9165311,
+        "lng": -8.1438633,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PENICHE",
+        "address": "Rua Baluarte da Misericórdia, 2520-239, Peniche",
+        "lat": 39.3570641,
+        "lng": -9.3780073,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PORTO DE MÓS",
+        "address": "Avenida da Liberdade, 13, R/C Dto., 2480-302, Porto de Mós",
+        "lat": 39.5943798,
+        "lng": -8.8252502,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VERIFICAÇÃO DE INCAPACIDADES DAS CALDAS DA RAINHA",
+        "address": "Hospital Termal Rainha D.ª Leonor de Caldas da Rainha - Largo Rainha D. Leonor, 2500-174, Caldas da Rainha",
+        "lat": 39.4032656,
+        "lng": -9.1322985,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ÓBIDOS",
+        "address": "Rua da Raposeira n.º 6 (Bairro dos Arcos), 2510-115, Óbidos",
+        "lat": 39.3543015,
+        "lng": -9.1576087,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DO BOMBARRAL",
+        "address": "Rua Misericórdia, 74B, R/C, 2540-123, Bombarral",
+        "lat": 39.2680991,
+        "lng": -9.158511299999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "BALCÃO DA INCLUSÃO DE LISBOA",
+        "address": "Avenida de Berna, 18B, 1069-451, Lisboa",
+        "lat": 38.7411162,
+        "lng": -9.1490885,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DAS LARANJEIRAS",
+        "address": "Edifício Atlanta II - Rua Abranches Ferrão, 10, 1600-001, Lisboa",
+        "lat": 38.7506546,
+        "lng": -9.171335299999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE AGUALVA-CACÉM",
+        "address": "Edifício Municipal Agualva-Cacém, Praceta Duque de Saldanha, 17, 2735-330, Agualva-Cacém",
+        "lat": 38.7691955,
+        "lng": -9.304952199999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE ARRUDA DOS VINHOS",
+        "address": "Rua Heróis do Ultramar, Loja 8 CV, 2630-243, Arruda dos Vinhos",
+        "lat": 38.9831146,
+        "lng": -9.077857900000001,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE CASCAIS",
+        "address": "Rua Manuel Joaquim Avelar, 118, piso 0, 2750-421, Cascais",
+        "lat": 38.6991731,
+        "lng": -9.4233058,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE MAFRA",
+        "address": "Avenida 25 de Abril, 5, 2644-014, Mafra",
+        "lat": 38.93949629999999,
+        "lng": -9.328700999999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE MARVILA",
+        "address": "Zona Comercial Bela Vista - Loja 34, Avenida Santo Condestável, 1900-806, Lisboa",
+        "lat": 38.7493875,
+        "lng": -9.1168087,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE ODIVELAS",
+        "address": "Strada Shopping – Loja 2048, Estrada da Paiã, Casal do Troca, 2675-626, Odivelas",
+        "lat": 38.7822701,
+        "lng": -9.192486599999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DO SALDANHA",
+        "address": "Mercado 31 de Janeiro, Rua Eng.º Vieira da Silva, 1050-094, Lisboa",
+        "lat": 38.73118669999999,
+        "lng": -9.1444292,
+        "type": "ss_offices"
+    },
+    {
+        "name": "POSTO DE ATENDIMENTO NO CENTRO NACIONAL DE APOIO À INTEGRAÇÃO DE MIGRANTES (CNAIM)",
+        "address": "Rua Álvaro Coutinho, 14, 1150-025, Lisboa",
+        "lat": 38.7250007,
+        "lng": -9.134435,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO SPE 100",
+        "address": "Avenida da República, n.º 67, 1069-033, Lisboa",
+        "lat": 38.7407313,
+        "lng": -9.1466326,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DE LISBOA I",
+        "address": "Avenida da República, n.º 67, 1069-033, Lisboa",
+        "lat": 38.7407313,
+        "lng": -9.1466326,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DE LISBOA II",
+        "address": "Avenida da República, n.º 67, 1069-033, Lisboa",
+        "lat": 38.7407313,
+        "lng": -9.1466326,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DE LISBOA III",
+        "address": "Avenida da República, n.º 67, 1069-033, Lisboa",
+        "lat": 38.7407313,
+        "lng": -9.1466326,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO MÉDICO DE PROTEÇÃO CONTRA OS RISCOS PROFISSIONAIS - LISBOA",
+        "address": "Avenida 5 de Outubro, 175, 1069-451, Lisboa",
+        "lat": 38.741627,
+        "lng": -9.1491867,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA AMADORA",
+        "address": "Rua Alfredo Keil, 13A, 2704-510, Amadora",
+        "lat": 38.7578085,
+        "lng": -9.235401699999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA AZAMBUJA",
+        "address": "Avenida Valverde, 9A, 2050-392, Azambuja",
+        "lat": 39.0674128,
+        "lng": -8.873788,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA ERICEIRA",
+        "address": "Largo do Prim, 2655-341, Ericeira",
+        "lat": 38.964316,
+        "lng": -9.4171323,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA LOURINHÃ",
+        "address": "Rua Eng.º Adelino Amaro da Costa, 2530-109, Lourinhã",
+        "lat": 39.2395232,
+        "lng": -9.3103179,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SEDE DE LISBOA",
+        "address": "Avenida de Berna, 18B, 1068-451, Lisboa",
+        "lat": 38.7411162,
+        "lng": -9.1490885,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ALENQUER",
+        "address": "Avenida 25 de Abril, 2B, 2580-367, Alenquer",
+        "lat": 39.050192,
+        "lng": -9.0052299,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DA AMADORA",
+        "address": "Rua Alfredo Keil, 13, R/C, 1º e 2º andar, 2704-510, Amadora",
+        "lat": 38.7576614,
+        "lng": -9.235378599999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DE LOURES",
+        "address": "Travessa Luís Pereira da Mota, 5, 2670-448, Loures",
+        "lat": 38.8305223,
+        "lng": -9.165351,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DE ODIVELAS",
+        "address": "Loja do Cidadão de Odivelas, Strada Shopping - Loja 2048, Estrada da Paiã, Casal do Troca, 2675-626, Odivelas",
+        "lat": 38.7819366,
+        "lng": -9.1924601,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DE OEIRAS",
+        "address": "Estrada de Paço d' Arcos, 9, Edifício Espaço, 2770-218, Paço de Arcos",
+        "lat": 38.70109619999999,
+        "lng": -9.293971899999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DE SACAVÉM",
+        "address": "Urbanização Quinta do Património, Rua Sport Grupo Sacavenense, 20E, 2685-011, Sacavém",
+        "lat": 38.7897789,
+        "lng": -9.1059363,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DE SINTRA",
+        "address": "Avenida Barão Almeida Santos, 10/12, Quinta dos Plátanos, 2710-525, Sintra",
+        "lat": 38.802113,
+        "lng": -9.3870968,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DE TORRES VEDRAS",
+        "address": "Avenida General Humberto Delgado, 18B, 2560-272, Torres Vedras",
+        "lat": 39.0885426,
+        "lng": -9.2538038,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DE VILA FRANCA DE XIRA",
+        "address": "Alameda Capitães de Abril, 14, 2600-125, Vila Franca de Xira",
+        "lat": 38.9520093,
+        "lng": -8.9896943,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE LOURES",
+        "address": "Travessa Luís Pereira da Mota, 5, 2670-448, Loures",
+        "lat": 38.8305223,
+        "lng": -9.165351,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE OEIRAS/PAÇO DE ARCOS",
+        "address": "Estrada de Paço d' Arcos, 9, Edifício Espaço, 2770-218, Paço de Arcos",
+        "lat": 38.70109619999999,
+        "lng": -9.293971899999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PÊRO PINHEIRO",
+        "address": "Rua Casal dos Ossos, 30, Edifício Multiusos, 2715-083, Pêro Pinheiro",
+        "lat": 38.8574906,
+        "lng": -9.3214116,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE QUELUZ",
+        "address": "Avenida da República, 75/79, R/C, 2745-209, Queluz",
+        "lat": 38.75465,
+        "lng": -9.255765499999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SINTRA",
+        "address": "Avenida Barão Almeida Santos, 10/12 - Quinta dos Plátanos, 2710-525, Sintra",
+        "lat": 38.802113,
+        "lng": -9.3870968,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SOBRAL DE MONTE AGRAÇO",
+        "address": "Rua Dr. Correia Guedes, 37, R/C, 2590-015, Sobral de Monte Agraço",
+        "lat": 39.0193498,
+        "lng": -9.1524485,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE TORRES VEDRAS",
+        "address": "Avenida General Humberto Delgado, 18B, 2560-272, Torres Vedras",
+        "lat": 39.0885426,
+        "lng": -9.2538038,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VERIFICAÇÃO DE INCAPACIDADES DE LISBOA",
+        "address": "Avenida 5 de Outubro, 175, 1069-451, Lisboa",
+        "lat": 38.741627,
+        "lng": -9.1491867,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VILA FRANCA DE XIRA",
+        "address": "Alameda Capitães de Abril, 14, 2600-125, Vila Franca de Xira",
+        "lat": 38.9520093,
+        "lng": -8.9896943,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DO CADAVAL",
+        "address": "Rua Dr. José Joyce Damas Mora, 2550-151, Cadaval",
+        "lat": 39.2403138,
+        "lng": -9.1017736,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DO CENTRO NACIONAL DE PENSÕES",
+        "address": "Avenida de Berna, 18C, 1068-451, Lisboa",
+        "lat": 38.7409374,
+        "lng": -9.1493551,
+        "type": "ss_offices"
+    },
+    {
+        "name": "BALCÃO DA INCLUSÃO DE PORTALEGRE",
+        "address": "Praça João Paulo II, 7, 7300-111, Portalegre",
+        "lat": 39.2992619,
+        "lng": -7.432565299999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE CAMPO MAIOR",
+        "address": "Rua Visconde Seabra, 2 e 2-A, 7370-121, Campo Maior",
+        "lat": 39.01391539999999,
+        "lng": -7.070535899999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DE PORTALEGRE",
+        "address": "Praça João Paulo II, n.º 7, 7300-111, Portalegre",
+        "lat": 39.2992246,
+        "lng": -7.4332705,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO TEMPORÁRIO DE GÁFETE",
+        "address": "Largo Dr. Alberto Botelho de Moraes, 1, 1º, 7430-277, Gáfete",
+        "lat": 39.4109005,
+        "lng": -7.6823729,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO TEMPORÁRIO DE MARVÃO",
+        "address": "Rua Dr. Matos Magalhães - Edifício do Centro Municipal de Proteção Civil, 7330-121, Marvão",
+        "lat": 39.3940808,
+        "lng": -7.3774324,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SEDE DE PORTALEGRE",
+        "address": "Praça João Paulo II, 7, 7300-111, Portalegre",
+        "lat": 39.2992619,
+        "lng": -7.432565299999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ALTER DO CHÃO",
+        "address": "Largo dos Doze Melhores de Alter, 7440-021, Alter do Chão",
+        "lat": 39.1987201,
+        "lng": -7.6596429,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ARRONCHES",
+        "address": "Rua Edmundo Curvelo, 7340-029, Arronches",
+        "lat": 39.1190844,
+        "lng": -7.2864025,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AVIS",
+        "address": "Avenida da Liberdade, 7480-103, Avis",
+        "lat": 39.052827,
+        "lng": -7.8912755,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE CASTELO DE VIDE",
+        "address": "Rua 5 de Outubro, 21 - Edifício do Centro Municipal de Cultura, 7320-119, Castelo de Vide",
+        "lat": 39.4525545,
+        "lng": -7.4814163,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ELVAS",
+        "address": "Rossio, Fonte Nova, Rua da Ajuda, 7350-145, Elvas",
+        "lat": 38.8802788,
+        "lng": -7.1636637,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE FRONTEIRA",
+        "address": "Rua de Avis, 4 - Edifício do Centro Cultural, 7460-120, Fronteira",
+        "lat": 39.0562469,
+        "lng": -7.6485382,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE GAVIÃO",
+        "address": "Alameda 25 de Abril, 6040-130, Gavião",
+        "lat": 39.465553,
+        "lng": -7.9371055,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MONFORTE",
+        "address": "Rua Dr. João Rosado Correia, 1, 7450-158, Monforte",
+        "lat": 39.0537848,
+        "lng": -7.435229899999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MONTARGIL",
+        "address": "Rua Luís de Camões - Edifício do Centro Cultural de Montargil, 7425-128, Montargil",
+        "lat": 39.0782922,
+        "lng": -8.1739655,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE NISA",
+        "address": "Rua do Convento, 1, 6050-380, Nisa",
+        "lat": 39.5154481,
+        "lng": -7.654295599999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PONTE DE SÔR",
+        "address": "Rua Cardeal António Ribeiro, 1, R/C, 7400-302, Ponte de Sôr",
+        "lat": 39.2513464,
+        "lng": -8.015384,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SOUSEL",
+        "address": "Rua Nova, 28, 7470-254, Sousel",
+        "lat": 38.95371170000001,
+        "lng": -7.6759016,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DO CRATO",
+        "address": "Rua 1º de Dezembro, 1, 7430-169, Crato",
+        "lat": 39.2898646,
+        "lng": -7.6467652,
+        "type": "ss_offices"
+    },
+    {
+        "name": "BALCÃO DA INCLUSÃO DO PORTO",
+        "address": "Rua de António Patrício, 262, 4199-001, Porto",
+        "lat": 41.1586988,
+        "lng": -8.639478,
+        "type": "ss_offices"
+    },
+    {
+        "name": "CENTRO NACIONAL DE APOIO À INTEGRAÇÃO DE MIGRANTES (CNAIM)",
+        "address": "Avenida de França, 316 – Edifício do Capitólio, Loja 57, 4050-276, Porto",
+        "lat": 41.1614656,
+        "lng": -8.6273917,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE FELGUEIRAS",
+        "address": "Avenida Dr. Ribeiro Magalhães, 1039, 4610-108, Felgueiras",
+        "lat": 41.3618557,
+        "lng": -8.1951403,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE PENAFIEL",
+        "address": "Rua Joaquim de Araújo, 4560-467, Penafiel",
+        "lat": 41.2070076,
+        "lng": -8.2831551,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE SANTO TIRSO",
+        "address": "Avenida Sousa Cruz, 101 - Edifício JFS, Lojas 24 e 25, 4780-365, Santo Tirso",
+        "lat": 41.3436805,
+        "lng": -8.4763408,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE VALONGO - ERMESINDE",
+        "address": "Rua Aldeia dos Lavradores, 240, 4445-640, Ermesinde",
+        "lat": 41.21402130000001,
+        "lng": -8.5458646,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE VILA NOVA DE GAIA",
+        "address": "Rua Manuel Moreira de Barros - Arrábida Shopping, Loja A 0.29, 4400-346, Vila Nova de Gaia",
+        "lat": 41.1414625,
+        "lng": -8.6364535,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DO PORTO",
+        "address": "Avenida Fernão de Magalhães, 1862 - Edifício Torre das Antas, 4350-158, Porto",
+        "lat": 41.1653556,
+        "lng": -8.5883655,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DO PORTO I",
+        "address": "Av. da Boavista, n.º 900, R\\C e 1º, 4100 – 112, Porto",
+        "lat": 41.1589103,
+        "lng": -8.634824,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DO PORTO II",
+        "address": "Av. Boavista, n.º 900, 4100 – 112, Porto",
+        "lat": 41.1589103,
+        "lng": -8.634824,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO MÉDICO DE PROTEÇÃO CONTRA OS RISCOS PROFISSIONAIS - PORTO",
+        "address": "Avenida Infante de Sagres, 349, Valadares (junto à praia), 4405-565, Vila Nova de Gaia",
+        "lat": 41.0891705,
+        "lng": -8.6553633,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO TEMPORÁRIO DA LIXA",
+        "address": "Ladário, Vila Cova, 4615-649, Lixa",
+        "lat": -19.0036386,
+        "lng": -57.60306349999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO TEMPORÁRIO DE SÃO MARTINHO DO CAMPO",
+        "address": "Avenida Manuel Dias Machado, 66, 4795-445, S. Martinho Campo - Santo Tirso",
+        "lat": 41.3591203,
+        "lng": -8.366392099999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA MAIA",
+        "address": "Praceta Engº José Adriano M. Santos, Loja 70, Urbanização do Chantre, 4470-087, Maia",
+        "lat": 41.2217405,
+        "lng": -8.6250327,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA PÓVOA DE VARZIM",
+        "address": "Centro Comercial O Pescador - Praça dos Combatentes, Edifício 4, 3.1 R/C, 4490-439, Póvoa de Varzim",
+        "lat": 41.3836896,
+        "lng": -8.7612231,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SEDE DO PORTO",
+        "address": "Rua do Rosário, 159, 4050-523, Porto",
+        "lat": 41.1494582,
+        "lng": -8.6209251,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA TROFA",
+        "address": "Rua 16 de Maio, Lagoa, 4785-607, Trofa",
+        "lat": 41.3374227,
+        "lng": -8.5918945,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AMARANTE",
+        "address": "Parque Residencial da Madalena, 4600-014, Amarante",
+        "lat": 41.2732068,
+        "lng": -8.0822829,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DA MAIA",
+        "address": "Praceta Engº José Adriano M. Santos, Loja 27 - Urbanização do Chantre, 4470-087, Maia",
+        "lat": 41.2217405,
+        "lng": -8.6250327,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DA PÓVOA DE VARZIM",
+        "address": "Largo das Dores - Santa Casa da Misericórdia, 4490-421, Póvoa de Varzim",
+        "lat": 41.3828815,
+        "lng": -8.759989299999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DE BAIÃO",
+        "address": "Rua de Camões, 176, 4640-147, Baião",
+        "lat": 41.1589466,
+        "lng": -8.0386492,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DE GONDOMAR",
+        "address": "Rua José Saramago, 15, 4420-171, Gondomar",
+        "lat": 41.1390001,
+        "lng": -8.536515699999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DE SANTO TIRSO",
+        "address": "Avenida Sousa Cruz, 101 - Edifício JFS, Lojas 13 e 14, 4780-365, Santo Tirso",
+        "lat": 41.3436805,
+        "lng": -8.4763408,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DE VILA NOVA DE GAIA",
+        "address": "Avenida da República, 1820, Loja 7, 4430-194, Vila Nova Gaia",
+        "lat": 41.1221489,
+        "lng": -8.6063677,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DE VILA DO CONDE",
+        "address": "Rua Dr. António de Andrade, 46, R/C, 4480-806, Vila do Conde",
+        "lat": 41.3534412,
+        "lng": -8.744754799999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DO PORTO (CENTRAL E ORIENTAL)",
+        "address": "Rua Alegria, 200, 4000-034, Porto",
+        "lat": 41.1499388,
+        "lng": -8.6040946,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE BAIÃO",
+        "address": "Rua de Camões, 208, 4640-147, Baião",
+        "lat": 41.1591375,
+        "lng": -8.037833599999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE GONDOMAR",
+        "address": "Rua José Saramago, 19, 4420-171, Gondomar",
+        "lat": 41.1388786,
+        "lng": -8.536531799999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE LORDELO",
+        "address": "Estrada Nacional 209, 3621, 4580-439, Lordelo",
+        "lat": 41.2489551,
+        "lng": -8.4059639,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE LOUSADA",
+        "address": "Rua do Tojeiro, 139, 4620-668, Lousada",
+        "lat": 41.2762979,
+        "lng": -8.2813821,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MARCO DE CANAVESES",
+        "address": "Rua Dr. Francisco Sá Carneiro, 235, 1º, 4630-205, Marco de Canavezes",
+        "lat": 41.1844183,
+        "lng": -8.149432299999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MATOSINHOS",
+        "address": "Avenida Serpa Pinto, 728, 1.º, 4450-279, Matosinhos",
+        "lat": 41.1804561,
+        "lng": -8.6911369,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE OLIVAL",
+        "address": "Avenida Eng. Adelino Amaro da Costa, 2050, 4415-414, Olival - Vila Nova de Gaia",
+        "lat": 41.0559446,
+        "lng": -8.5210191,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PAREDES",
+        "address": "Avenida Bombeiros Voluntários - Edifício Nova Paredes, Lojas 2 e 3, 4580-053, Paredes",
+        "lat": 41.2058726,
+        "lng": -8.3363987,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PAÇOS DE FERREIRA",
+        "address": "Rua Capitão da Praça, 43, R/C, Bloco 8, 4590-570, Paços de Ferreira",
+        "lat": 41.275042,
+        "lng": -8.3800173,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PEROSELO",
+        "address": "Lugar do Calvário, 4560-750, Peroselo",
+        "lat": 41.2295681,
+        "lng": -8.2634921,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE RIO TINTO",
+        "address": "Rua São Bento das Pêras, 4435-432, Rio Tinto",
+        "lat": 41.1740761,
+        "lng": -8.5571652,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SÃO MAMEDE DE INFESTA",
+        "address": "Rua Silva Brinco, s/n, 4465-265, São Mamede Infesta",
+        "lat": 41.1873822,
+        "lng": -8.612666,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VALONGO",
+        "address": "Rotunda 1.º de Maio, 160, 1.º, 4440-519, Valongo",
+        "lat": 41.19370929999999,
+        "lng": -8.5018184,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VILA NOVA DE GAIA",
+        "address": "Avenida da República, 1820, 4430-194, Vila Nova Gaia",
+        "lat": 41.1221489,
+        "lng": -8.6063677,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VILA DO CONDE",
+        "address": "Avenida Brasil, 1620, 4480-659, Vila do Conde",
+        "lat": 41.3581621,
+        "lng": -8.755554499999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DO PORTO - TESOURARIA ÚNICA",
+        "address": "Ver Observações | Rua do Rosário, 159, 4050-523, Porto",
+        "lat": 41.1494582,
+        "lng": -8.6209251,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DOS CARVALHOS",
+        "address": "Rua Professor José Marques Queirós Júnior, 115, 4415-284, Pedroso - Vila Nova de Gaia",
+        "lat": 41.0689018,
+        "lng": -8.576594,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE VERIFICAÇÃO DE INCAPACIDADES DO PORTO",
+        "address": "Avenida Infante de Sagres, 349, Valadares (junto à praia), 4405-565, Vila Nova de Gaia",
+        "lat": 41.0891705,
+        "lng": -8.6553633,
+        "type": "ss_offices"
+    },
+    {
+        "name": "BALCÃO DA INCLUSÃO DE SANTARÉM",
+        "address": "Avenida Grupo de Forcados Amadores de Santarém, 2000-181, Santarém",
+        "lat": 39.2270737,
+        "lng": -8.6879048,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE ABRANTES",
+        "address": "Rua Nossa Senhora da Conceição, 33 – 1º, 2200-392, Abrantes",
+        "lat": 39.4572566,
+        "lng": -8.198995,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE RIO MAIOR",
+        "address": "Praça do Comércio, 1, 2040-320, Rio Maior",
+        "lat": 39.3354308,
+        "lng": -8.9377273,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE VILA NOVA DA BARQUINHA",
+        "address": "Rua Marechal Carmona, 35, 2260-438, Vila Nova da Barquinha",
+        "lat": 39.4584178,
+        "lng": -8.4306366,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DO SARDOAL",
+        "address": "Rua 5 de Outubro, 61, 2230-121, Sardoal",
+        "lat": 39.5385031,
+        "lng": -8.1608026,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DE SANTARÉM",
+        "address": "Praceta Alves Redol, 22, 5º piso, 2001-902, Santarém",
+        "lat": 39.22894489999999,
+        "lng": -8.6867334,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO ATENDIMENTO DE CONSTÂNCIA – ESPAÇO CIDADÃO",
+        "address": "Avenida das Forças Armadas, 2250-028, Constância",
+        "lat": 39.4760252,
+        "lng": -8.3408858,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO TEMPORÁRIO DE ALPIARÇA",
+        "address": "Espaço Cidadão, Rua João Maria da Costa, 2090-093, Alpiarça",
+        "lat": 39.2635595,
+        "lng": -8.5763339,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO TEMPORÁRIO DE FERREIRA DO ZÊZERE",
+        "address": "Rua Casal de Além, 27, 2240-350, Ferreira do Zêzere",
+        "lat": 39.6941792,
+        "lng": -8.2929221,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA CHAMUSCA",
+        "address": "Rua Mascarenhas Pedroso, 8, 2140-133, Chamusca",
+        "lat": 39.3576451,
+        "lng": -8.481120899999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA GOLEGÃ",
+        "address": "Edifício Equuspolis, Rua D João IV, 2150-169, Golegã",
+        "lat": 39.4011585,
+        "lng": -8.4784141,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SEDE DE SANTARÉM",
+        "address": "Avenida Grupo de Forcados Amadores de Santarém, 2000-181, Santarém",
+        "lat": 39.2270737,
+        "lng": -8.6879048,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ALCANENA",
+        "address": "Rua Dr. José Vasques Tenreiro, 2380-069, Alcanena",
+        "lat": 39.4580944,
+        "lng": -8.666058,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ALMEIRIM",
+        "address": "Largo dos Charcos, 2080-037, Almeirim",
+        "lat": 39.2060557,
+        "lng": -8.6310131,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE BENAVENTE",
+        "address": "Avenida Eng.º António Calheiros Lopes, 2130-015, Benavente",
+        "lat": 38.9798374,
+        "lng": -8.8061788,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE CORUCHE",
+        "address": "Rua dos Bombeiros Voluntários, 32 a 34, 2100-179, Coruche",
+        "lat": 38.9596619,
+        "lng": -8.52473,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE FÁTIMA",
+        "address": "Rua Tenente Santana Lopes, Edifício Concorde - BL C Lj 31 - Cova Iria, 2495-414, Fátima",
+        "lat": 39.6283964,
+        "lng": -8.6656906,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MAÇÃO",
+        "address": "Avenida Vicente Mendes Mirrado, 460, 6120-725, Mação",
+        "lat": 39.5609683,
+        "lng": -7.996389700000001,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE OURÉM",
+        "address": "Rua António Pereira Afonso, 19 a 23, 2490-522, Ourém",
+        "lat": 39.6579657,
+        "lng": -8.581299999999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SALVATERRA DE MAGOS",
+        "address": "Avenida Dr. Roberto Ferreira Fonseca, 5, 2120-115, Salvaterra de Magos",
+        "lat": 39.0259542,
+        "lng": -8.7932382,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SAMORA CORREIA - BENAVENTE",
+        "address": "Rua da Segurança Social, 3, 2135-340, Samora Correia",
+        "lat": 38.9339837,
+        "lng": -8.865439199999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE TOMAR",
+        "address": "Avenida Ângela Tamagnini, 3 a 9, 2300-437, Tomar",
+        "lat": 39.6056157,
+        "lng": -8.4068782,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE TORRES NOVAS",
+        "address": "Rua do Salvador, 13 a 17, 2350-416, Torres Novas",
+        "lat": 39.4793593,
+        "lng": -8.5391129,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DO CARTAXO",
+        "address": "Avenida João de Deus, 2070-011, Cartaxo",
+        "lat": 39.1584429,
+        "lng": -8.7907773,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DO ENTRONCAMENTO",
+        "address": "Rua Dr. Francisco Mendes de Brito, 2330-223, Entroncamento",
+        "lat": 39.4714556,
+        "lng": -8.474038,
+        "type": "ss_offices"
+    },
+    {
+        "name": "BALCÃO DA INCLUSÃO DE SETÚBAL",
+        "address": "Praça da República, 2900-578, Setúbal",
+        "lat": 38.5220079,
+        "lng": -8.8913642,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE SANTIAGO DO CACÉM",
+        "address": "Avenida D. Nuno Álvares Pereira, 13, 7540-101, Santiago do Cacém",
+        "lat": 38.0172656,
+        "lng": -8.6925089,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE SETÚBAL",
+        "address": "Avenida Bento Gonçalves, 30D, 2910-431, Setúbal",
+        "lat": 38.5281197,
+        "lng": -8.8822146,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DO PINHAL NOVO",
+        "address": "Edifício do Mercado Municipal - Praça da Independência, 2955-999, Pinhal Novo",
+        "lat": 38.6318721,
+        "lng": -8.915093299999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DO SEIXAL",
+        "address": "Edifício Alentejo - Rua Francisco Zambujal, 1, Piso 1, 2845 – 111, Amora",
+        "lat": 38.6211238,
+        "lng": -9.120650399999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DE SETÚBAL",
+        "address": "Praça da República, 2900 - 587, Setúbal",
+        "lat": 38.5220079,
+        "lng": -8.8913642,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO TEMPORÁRIO DE ALVALADE",
+        "address": "Rua D. Manuel I, 15, 7565-021, Alvalade",
+        "lat": 37.9370955,
+        "lng": -8.391544399999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO TEMPORÁRIO DE CERCAL DO ALENTEJO",
+        "address": "Bairro Zeca Afonso, 38, 7555-105, Cercal do Alentejo",
+        "lat": 37.7978586,
+        "lng": -8.6738489,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO TEMPORÁRIO DE TORRÃO",
+        "address": "Antiga Escola Primária, 1, Sexo Feminino, 7595, Torrão",
+        "lat": 38.2967162,
+        "lng": -8.227241,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA BAIXA DA BANHEIRA - MOITA",
+        "address": "Estrada Nacional 11-1, 202 a 202 A, 2835-174, Baixa da Banheira",
+        "lat": 38.65701,
+        "lng": -9.03684,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SEDE DE SETÚBAL",
+        "address": "Praça da República, 2900-578, Setúbal",
+        "lat": 38.5220079,
+        "lng": -8.8913642,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ALCÁCER DO SAL",
+        "address": "Avenida Eng. João Soares Branco, 34, 7580-246, Alcácer do Sal",
+        "lat": 38.3711837,
+        "lng": -8.5099546,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ALMADA",
+        "address": "Avenida 25 de Abril, 34, 2804-516, Almada",
+        "lat": 38.6839761,
+        "lng": -9.150604099999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AMORA - SEIXAL",
+        "address": "Avenida Baía Natural do Seixal, 996, 2845-415, Seixal",
+        "lat": 38.6298703,
+        "lng": -9.1180978,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE AÇÃO SOCIAL DE SANTO ANDRÉ",
+        "address": "Coletiva A2, Bairro Azul, 7500-100, Santo André",
+        "lat": 38.0569565,
+        "lng": -8.7826218,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE GRÂNDOLA",
+        "address": "Rua Ana Luísa Cruz Costa, 7570-183, Grândola",
+        "lat": 38.1742953,
+        "lng": -8.5651224,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SESIMBRA",
+        "address": "Rua Amélia Frade, 13C, 2970-712, Sesimbra",
+        "lat": 38.4447594,
+        "lng": -9.0985192,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SINES",
+        "address": "Rua Marquês de Pombal, 49, 7520-224, Sines",
+        "lat": 37.95691,
+        "lng": -8.8663971,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DO BARREIRO",
+        "address": "Rua do Instituto Ferroviário Sul e Sueste, 3, 2830-335, Barreiro",
+        "lat": 38.660839,
+        "lng": -9.0813391,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DO MONTIJO",
+        "address": "Praça Vitorino Nemésio, 2870-234, Montijo",
+        "lat": 38.7075585,
+        "lng": -8.98128,
+        "type": "ss_offices"
+    },
+    {
+        "name": "BALCÃO DA INCLUSÃO DE VIANA DO CASTELO",
+        "address": "Rua da Bandeira, 600, 4904-866, Viana do Castelo",
+        "lat": 41.7007805,
+        "lng": -8.8199463,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DE VIANA DO CASTELO",
+        "address": "Rua da Bandeira, n.º 600, 4904-866, Viana do Castelo",
+        "lat": 41.6986574,
+        "lng": -8.8214031,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SEDE DE VIANA DO CASTELO",
+        "address": "Rua da Bandeira, 600, 4904-866, Viana do Castelo",
+        "lat": 41.7007805,
+        "lng": -8.8199463,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ARCOS DE VALDEVEZ",
+        "address": "Rua Dr. Félix Alves Pereira, 4970-456, Arcos de Valdevez",
+        "lat": 41.8446718,
+        "lng": -8.4205929,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE BARROSELAS",
+        "address": "Rua da Estação, 165, 4905-311, Barroselas",
+        "lat": 41.647404,
+        "lng": -8.702211499999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE CAMINHA",
+        "address": "Rua Padre Pinheiro, 30, 4910-106, Caminha",
+        "lat": 41.8760845,
+        "lng": -8.8347357,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MELGAÇO",
+        "address": "Rua Dr. José Cândido Gomes de Abreu, 23, 4960-554, Melgaço",
+        "lat": 42.1148055,
+        "lng": -8.2568485,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MONÇÃO",
+        "address": "Praça Dr. Oliveira e Silva, 5, 4950-491, Monção",
+        "lat": 42.0764882,
+        "lng": -8.484375199999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PAREDES DE COURA",
+        "address": "Rua Frei António de Jesus, 4940-539, Paredes de Coura",
+        "lat": 41.9137704,
+        "lng": -8.5605331,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PONTE DA BARCA",
+        "address": "Rua Comendador José Carneiro Bouças, 4980-624, Ponte da Barca",
+        "lat": 41.8060333,
+        "lng": -8.415055,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PONTE DE LIMA",
+        "address": "Rua Dr. Cassiano Batista, 129, 4990-144, Ponte de Lima",
+        "lat": 41.7617844,
+        "lng": -8.581935,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VALENÇA",
+        "address": "Avenida Miguel Dantas, Edifício Tróias, Bloco Nascente, R/C, 4930-678, Valença",
+        "lat": 42.0228158,
+        "lng": -8.6408605,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VILA NOVA DE CERVEIRA",
+        "address": "Avenida José Luciano de Castro, 4920-277, Vila Nova de Cerveira",
+        "lat": 41.9387973,
+        "lng": -8.7424779,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VILA PRAIA DE ÂNCORA",
+        "address": "Rua Lourenço Rocha, 72, 4910-521, Vila Praia de Âncora",
+        "lat": 41.814448,
+        "lng": -8.8583155,
+        "type": "ss_offices"
+    },
+    {
+        "name": "BALCÃO DA INCLUSÃO DE VILA REAL",
+        "address": "Rua D. Pedro de Castro, 110, 5000-669, Vila Real",
+        "lat": 41.2999983,
+        "lng": -7.7475803,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE MONTALEGRE",
+        "address": "Praça do Município, 5470-233, Montalegre",
+        "lat": 41.8231873,
+        "lng": -7.792159799999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE MURÇA",
+        "address": "Travessa do Tribunal, 1.º Piso, 5090-142, Murça",
+        "lat": 41.410051,
+        "lng": -7.4489531,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DE VILA REAL",
+        "address": "Rua D. Pedro de Castro, n.º 110 - Apartado 208, 5000-669, Vila Real",
+        "lat": 41.2995234,
+        "lng": -7.7470792,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SEDE DE VILA REAL",
+        "address": "Rua D. Pedro de Castro, 110, 5000-669, Vila Real",
+        "lat": 41.2999983,
+        "lng": -7.7475803,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ALIJÓ",
+        "address": "Rua Comendador José Rufino, 5070-031, Alijó",
+        "lat": 41.2758998,
+        "lng": -7.4739957,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE BOTICAS",
+        "address": "Rua 5 de Outubro, 74, 5460-304, Boticas",
+        "lat": 41.6872905,
+        "lng": -7.670713699999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE CHAVES",
+        "address": "Rua Enfermeiro Carvalho, 228, Campo da Feira, 5400-159, Chaves",
+        "lat": 41.747827,
+        "lng": -7.4648281,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MONDIM DE BASTO",
+        "address": "Rua de São Cristóvão, 40, 4880-259, Mondim de Basto",
+        "lat": 41.411812,
+        "lng": -7.9603567,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PESO DA RÉGUA",
+        "address": "Praça General Humberto Delgado (traseiras do hospital), 5050-242, Peso da Régua",
+        "lat": 41.1658029,
+        "lng": -7.79196,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE RIBEIRA DA PENA",
+        "address": "Avenida da Noruega, 16B, 4870-151, Ribeira da Pena",
+        "lat": 41.518944,
+        "lng": -7.793040299999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SABROSA",
+        "address": "Rua de São Roque, 5060-325, Sabrosa",
+        "lat": 41.2656097,
+        "lng": -7.5755173,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SANTA MARTA DE PENAGUIÃO",
+        "address": "Praça do Município, 5030-472, Santa Marta de Penaguião",
+        "lat": 41.2101146,
+        "lng": -7.787522699999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VALPAÇOS",
+        "address": "Avenida Dr. Manuel Chaves Sobrinho Morais, 4, 5430-421, Valpaços",
+        "lat": 41.6071977,
+        "lng": -7.313886399999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VIDAGO",
+        "address": "Estrada Nacional 2, 236, 5425-323, Vidago",
+        "lat": 41.6418548,
+        "lng": -7.5744732,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VILA POUCA DE AGUIAR",
+        "address": "Rua Dr. António Gil, 35, 5450-017, Vila Pouca de Aguiar",
+        "lat": 41.499357,
+        "lng": -7.644686699999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "BALCÃO DA INCLUSÃO DE VISEU",
+        "address": "Avenida Dr. António José de Almeida, 35, 3514-509, Viseu",
+        "lat": 40.6610619,
+        "lng": -7.9154993,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE CARREGAL DO SAL",
+        "address": "Avenida Dr. Francisco Sá Carneiro, 10, 3430-029, Carregal do Sal",
+        "lat": 40.4306074,
+        "lng": -8.006317,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE NELAS",
+        "address": "Rua Gago Coutinho, 89, 3520-057, Nelas",
+        "lat": 40.5337492,
+        "lng": -7.8515961,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE PENALVA DO CASTELO",
+        "address": "Rua 1º de Dezembro, 115, 3550-135, Penalva do Castelo",
+        "lat": 40.6862295,
+        "lng": -7.633112999999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE RESENDE",
+        "address": "Edifício do Tribunal de Resende - Rua José Pereira Monteiro, 4660-228, Resende",
+        "lat": 41.1119883,
+        "lng": -7.9280158,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE SÁTÃO",
+        "address": "Rua Dr. Hilário Almeida Pereira, 27, 3560-172, Sátão",
+        "lat": 40.7410363,
+        "lng": -7.736079699999999,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE TAROUCA",
+        "address": "Avenida Padre Duarte Fernandes dos Santos, 3610-017, Tarouca",
+        "lat": 41.0174461,
+        "lng": -7.775003600000001,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DE CIDADÃO DE VISEU",
+        "address": "Rua Eça de Queirós, lotes 8 a 10, 3500-419, Viseu",
+        "lat": 40.6508158,
+        "lng": -7.9097822,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DE VISEU",
+        "address": "Rua Nunes de Carvalho, nº 30, 2º andar, 3500-163, Viseu",
+        "lat": 40.6589852,
+        "lng": -7.9133639,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DA SEDE DE VISEU",
+        "address": "Avenida Dr. António José de Almeida, 35, 3514-509, Viseu",
+        "lat": 40.6610619,
+        "lng": -7.9154993,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE ARMAMAR",
+        "address": "Avenida 8 de Setembro, 5110-121, Armamar",
+        "lat": 41.1085374,
+        "lng": -7.6910991,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE CASTRO DAIRE",
+        "address": "Avenida António Serrado, 3600-136, Castro Daire",
+        "lat": 40.9015591,
+        "lng": -7.932262,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE CINFÃES",
+        "address": "Rua Xanana Gusmão, 4690-877, Cinfães",
+        "lat": 41.0713082,
+        "lng": -8.0883285,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE LAMEGO",
+        "address": "Rua Dr. Manuel Cardoso, 8, 5100-156, Lamego",
+        "lat": 41.104127,
+        "lng": -7.8107077,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MANGUALDE",
+        "address": "Largo do Rossio, 74, 3530-133, Mangualde",
+        "lat": 40.6044722,
+        "lng": -7.7572509,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MOIMENTA DA BEIRA",
+        "address": "Avenida 25 de Abril, 4, R/C, 3620-304, Moimenta da Beira",
+        "lat": 40.976293,
+        "lng": -7.611662699999998,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE MORTÁGUA",
+        "address": "Rua Dr. José Lopes Oliveira, 2 - Edifício BNU, 3450-154, Mortágua",
+        "lat": 40.397784,
+        "lng": -8.2305802,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE OLIVEIRA DE FRADES",
+        "address": "Rua Dr. José Bento Rocha e Melo, 3680-116, Oliveira de Frades",
+        "lat": 40.7329452,
+        "lng": -8.1729653,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE PENEDONO",
+        "address": "Largo da Devesa, 3630-253, Penedono",
+        "lat": 41.0846047,
+        "lng": -7.4326766,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SANTA COMBA DÃO",
+        "address": "Rua Mouzinho de Albuquerque, 39 a 41, 3440-387, Santa Comba Dão",
+        "lat": 40.3984382,
+        "lng": -8.1308366,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SERNANCELHE",
+        "address": "Avenida Dr. Oliveira Serrão, 3640-240, Sernancelhe",
+        "lat": 40.8979574,
+        "lng": -7.4960355,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SÃO JOÃO DA PESQUEIRA",
+        "address": "Avenida Marquês de Soveral, 5130-321, São João da Pesqueira",
+        "lat": 41.1472335,
+        "lng": -7.407539,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE SÃO PEDRO DO SUL",
+        "address": "Largo de São Sebastião, 3660-441, São Pedro do Sul",
+        "lat": 40.7597932,
+        "lng": -8.0640758,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE TABUAÇO",
+        "address": "Rua Dr. Manuel Moutinho, 5120-416, Tabuaço",
+        "lat": 41.1147335,
+        "lng": -7.5659409,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE TONDELA",
+        "address": "Rua Tomás Ribeiro, Lote 6, R/C, 3460-616, Tondela",
+        "lat": 40.5200678,
+        "lng": -8.0775394,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VILA NOVA DE PAIVA",
+        "address": "Rua dos Bombeiros Voluntários, 2, 3650-213, Vila Nova de Paiva",
+        "lat": 40.8530436,
+        "lng": -7.7298758,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO DE ATENDIMENTO DE VOUZELA",
+        "address": "Avenida João de Melo, 29A, 3670-249, Vouzela",
+        "lat": 40.7230089,
+        "lng": -8.1110048,
+        "type": "ss_offices"
+    },
+    {
+        "name": "BALCÃO DA INCLUSÃO DA MADEIRA",
+        "address": "Rua Elias Garcia, n.º 14, piso 0, 9054 - 503, Funchal",
+        "lat": 32.6523643,
+        "lng": -16.9069536,
+        "type": "ss_offices"
+    },
+    {
+        "name": "GABINETE ATENDIMENTO CAIXA GERAL APOSENTAÇÕES (ISSM, IP-RAM)",
+        "address": "Rua Elias Garcia, n.º 14, piso 0, 9054 - 503, Funchal",
+        "lat": 32.6523643,
+        "lng": -16.9069536,
+        "type": "ss_offices"
+    },
+    {
+        "name": "INSTITUTO DE SEGURANÇA SOCIAL DA MADEIRA, IP-RAM - SEDE EDIFÍCIO BOM JESUS",
+        "address": "Rua Bom Jesus, n.º 13, 9054 - 503, Funchal",
+        "lat": 32.6511101,
+        "lng": -16.9070966,
+        "type": "ss_offices"
+    },
+    {
+        "name": "INSTITUTO DE SEGURANÇA SOCIAL DA MADEIRA, IP-RAM - SEDE EDIFÍCIO ELIAS GARCIA",
+        "address": "Rua Elias Garcia, n.º 14, 9054 - 503, Funchal",
+        "lat": 32.6523643,
+        "lng": -16.9069536,
+        "type": "ss_offices"
+    },
+    {
+        "name": "LOJA DO CIDADÃO DA MADEIRA (ISSM, IP-RAM)",
+        "address": "Avenida Arriaga, n.º 42-A, R/C, 9000 - 064, Funchal",
+        "lat": 32.6475112,
+        "lng": -16.9110485,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SECÇÃO DE PROCESSO EXECUTIVO DA MADEIRA (ISSM, IP-RAM)",
+        "address": "Rua da Conceição, n.º 127, 9054 - 508, Funchal",
+        "lat": 32.6512206,
+        "lng": -16.9072268,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DA BOAVENTURA",
+        "address": "Sítio do Serrão, Rua da Casa do Povo, 9240 - 046, Boaventura",
+        "lat": 32.8177488,
+        "lng": -16.972755,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DA CALHETA (AÇÃO SOCIAL)",
+        "address": "Edifício M. M. Farinha, 2.º, sala 7, Lombo da Estrela, 9370 - 149, Calheta",
+        "lat": 32.7316686,
+        "lng": -17.1774887,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DA CAMACHA",
+        "address": "Rua Maria Ascensão, n.º 114-C, Sítio da Igreja, 9135 - 382, Camacha",
+        "lat": 32.6786119,
+        "lng": -16.8495409,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DA FAJÃ DA OVELHA",
+        "address": "Estrada Regional 222, n.º 125, 9370 - 315, Fajã da Ovelha",
+        "lat": 32.7296847,
+        "lng": -17.163897,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DA PONTA DELGADA",
+        "address": "Rua Dr. Horácio Bento de Gouveia, 9240 - 103, Ponta Delgada",
+        "lat": 32.8243914,
+        "lng": -16.989042,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DA PONTA DO PARGO",
+        "address": "Rua do Centro Cívico, n.º 1, 9385 - 120, Ponta do Pargo",
+        "lat": 32.81052,
+        "lng": -17.2485274,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DA PONTA DO SOL",
+        "address": "Estrada do V Centenário, 9360-128, Ponta do Sol",
+        "lat": 32.6837214,
+        "lng": -17.1004332,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DA QUINTA GRANDE",
+        "address": "Estrada Padre António Dinis Henriques, 9300 - 261 Quinta Grande, Quinta Grande",
+        "lat": 32.6581898,
+        "lng": -17.0143535,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DA RIBEIRA BRAVA",
+        "address": "Estrada Regional 104, n.º 13, 9350 - 203, Ribeira Brava",
+        "lat": 32.6883182,
+        "lng": -17.0908614,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DA SANTA",
+        "address": "Sítio da Levada Grande, 9270 - 036, Santa",
+        "lat": 32.8549123,
+        "lng": -17.1765165,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DE CÂMARA DE LOBOS",
+        "address": "Rua Padre Pita Ferreira, Complexo Habitacional Coolobos, Bloco D-2, r/c, 9300 - 043, Câmara de Lobos",
+        "lat": 32.6569015,
+        "lng": -16.9683728,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DE MACHICO",
+        "address": "Rua do Ribeirinho, Edifício Ribeirinho, n.º 70 r/c, 9200 - 102, Machico",
+        "lat": 32.7183,
+        "lng": -16.7670822,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DE SANTA CRUZ",
+        "address": "Avenida 25 de Junho, n.º 53, r/c, 9100 - 183, Santa Cruz",
+        "lat": 32.6889683,
+        "lng": -16.7890791,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DE SANTANA",
+        "address": "Centro Cívico de Santana, Avenida Manuel Marques da Trindade, n.º 34, 9230 - 116, Santana",
+        "lat": 32.80238560000001,
+        "lng": -16.8807844,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DE SANTO ANTÓNIO",
+        "address": "Avenida da Madalena, n.º 165, Santo António, 9020 - 330, Funchal",
+        "lat": 32.6592743,
+        "lng": -16.9286493,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DE SÃO JORGE",
+        "address": "Sítio da Achada Grande, 9230 - 143, São Jorge",
+        "lat": 32.8257605,
+        "lng": -16.91612,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DE SÃO MARTINHO",
+        "address": "Rua da Bolívia, n.º 66 - Edifício Várzea Park, São Martinho, 9000 - 087, Funchal",
+        "lat": 32.6488156,
+        "lng": -16.9410849,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DE SÃO ROQUE",
+        "address": "Rua da Escola Secundária do Galeão, São Roque, 9020 - 212, Funchal",
+        "lat": 32.6704168,
+        "lng": -16.9275768,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DE SÃO ROQUE DO FAIAL",
+        "address": "Sítio do Pico do Cedro Gordo, 9230 - 208, São Roque do Faial",
+        "lat": 32.7677696,
+        "lng": -16.8571588,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DE SÃO VICENTE",
+        "address": "Sítio das Feiteiras de Cima, 9240 - 206, São Vivente",
+        "lat": 32.7892837,
+        "lng": -17.0386657,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DO ARCO DA CALHETA",
+        "address": "Rua Padre José Eduardo Faria, n.º 19, 9370 - 050, Arco da Calheta",
+        "lat": 32.7140914,
+        "lng": -17.1471878,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DO ARCO DE SÃO JORGE",
+        "address": "Sítio dos Poços, 9230 - 019, Arco de São Jorge",
+        "lat": 32.8268773,
+        "lng": -16.9541542,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DO CAMPANÁRIO",
+        "address": "Rua Comandante Camacho de Freitas, n.º 421, 9350 - 077, Campanário",
+        "lat": 32.6686533,
+        "lng": -17.0352075,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DO CANIÇAL",
+        "address": "Sítio Banda do Silva, 9200 - 031 Caniçal, Caniçal",
+        "lat": 32.7381144,
+        "lng": -16.7407989,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DO CANIÇO",
+        "address": "Caminho Velho do Jardim do Sol, n.º 1, 9125 - 118, Caniço",
+        "lat": 32.651378,
+        "lng": -16.8491248,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DO CURRAL DAS FREIRAS",
+        "address": "Estrada Cónego Camacho, n.º 7-C, 9030 - 421, Curral das Freiras",
+        "lat": 32.7221394,
+        "lng": -16.9644023,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DO ESTREITO DA CALHETA",
+        "address": "Rua da Igreja, n.º 3, 9370 - 238, Estreito da Calheta",
+        "lat": 32.73592,
+        "lng": -17.1879199,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DO ESTREITO DE CÂMARA DE LOBOS",
+        "address": "Rua Alameda do Mercado – Centro Cívico, 9325 - 024, Estreito de Câmara de Lobos",
+        "lat": 32.6712874,
+        "lng": -16.9797448,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DO FAIAL",
+        "address": "Estrada Regional 101, Sítio do Guindaste, 9230 - 052, Faial",
+        "lat": 38.5912552,
+        "lng": -28.6964752,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DO IMACULADO CORAÇÃO DE MARIA",
+        "address": "Rua Nova da Quinta Deão, Edifício Cuibém I - Junta de Freguesia do Imaculado Coração de Maria, 9050 - 071, Funchal",
+        "lat": 32.6550958,
+        "lng": -16.9137121,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DO JARDIM DA SERRA",
+        "address": "Rua de Santo Isidro, n.º 1-A, 9325 - 148, Jardim da Serra",
+        "lat": 32.684009,
+        "lng": -16.989381,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DO JARDIM DO MAR",
+        "address": "Caminho da Piedade, n.º 15, 9370 - 412, Jardim do Mar",
+        "lat": 32.737021,
+        "lng": -17.2101362,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DO MONTE",
+        "address": "Estrada dos Marmeleiros, Monte, 9054 - 535, Funchal",
+        "lat": 32.6694712,
+        "lng": -16.9109526,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DO PAUL DO MAR",
+        "address": "Impasse do Centro de Saúde, n.º 3, 9370 - 502, Paul do Mar",
+        "lat": 32.7576143,
+        "lng": -17.2290114,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DO PORTO MONIZ",
+        "address": "Sítio do Pé da Ladeira, Estrada Regional n.º 101, n.º 65, 9270 - 053, Porto Moniz",
+        "lat": 32.8659619,
+        "lng": -17.1673851,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DO PORTO DA CRUZ",
+        "address": "Rua Marechal Spínola, n.º 5, Sítio das Casas Próximas, 9225 - 050, Porto da Cruz",
+        "lat": 32.7712448,
+        "lng": -16.8349948,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DO SEIXAL",
+        "address": "Sítio das Feiteiras, Edifício da Junta Freguesia, 9270 - 124, Seixal",
+        "lat": 38.6410676,
+        "lng": -9.0975,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DOS CANHAS",
+        "address": "Rua do Outeiro, n.º 2, 9360 - 312, Canhas",
+        "lat": 32.6966377,
+        "lng": -17.1043922,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DOS PRAZERES",
+        "address": "Caminho da Referta, n.º 158, 9370 - 636, Prazeres",
+        "lat": 32.7498923,
+        "lng": -17.2060788,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DO PORTO SANTO",
+        "address": "Rua Dr. Nuno Silvestre Teixeira, Edifício Centro Cultural de Congressos, 1.º andar, 9400 - 162, Porto Santo",
+        "lat": 33.0591092,
+        "lng": -16.335418,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DE ATENDIMENTO DE PONTA DELGADA",
+        "address": "Rua Almirante Botelho de Sousa, 9500-158, Ponta Delgada",
+        "lat": 37.7451849,
+        "lng": -25.6790142,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DE ATENDIMENTO ANGRA DO HEROÍSMO",
+        "address": "Avenida Tenente Coronel José Agostinho, 9700-108, Angra do Heroísmo",
+        "lat": 38.6558709,
+        "lng": -27.2271891,
+        "type": "ss_offices"
+    },
+    {
+        "name": "SERVIÇO LOCAL DE ATENDIMENTO DE HORTA",
+        "address": "Rua D. Pedro IV, 24, 9900-111, Horta",
+        "lat": 38.5392831,
+        "lng": -28.626116,
+        "type": "ss_offices"
+    }
+]

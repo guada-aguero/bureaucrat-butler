@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Migration Assistant</title>
+    <link rel="stylesheet" href="/static/style.css"> <!-- Linking to the external CSS -->
+</head>
+
+<body>
+
+    <!-- Main Container -->
+    <div class="container">
+        <h1>Get a City and Housing Recommendation</h1>
+
+        <form id="preferences-form">
+            <label for="budget">Monthly Budget (€/month):</label>
+            <input type="number" id="budget" name="budget" placeholder="Enter your budget" min="0"><br>
+
+            <label for="environment">Preferred Environment:</label>
+            <select id="environment" name="environment" onchange="fetchCities()">
+                <option value="urban">Urban</option>
+                <option value="suburban">Suburban</option>
+                <option value="rural">Rural</option>
+            </select><br>
+
+            <label for="city">Select City:</label>
+            <select id="city" name="city"></select><br>
+
+            <label for="housing">Housing Preference:</label>
+            <select id="housing" name="housing">
+                <option value="bedrooms">Bedrooms</option>
+                <option value="garages">Garages</option>
+                <option value="homes">Homes</option>
+                <option value="offices">Offices</option>
+                <option value="premises">Premises</option>
+                <option value="transfers">Transfers</option>
+                <option value="buildings">Buildings</option>
+                <option value="storageRooms">Storage Rooms</option>
+                <option value="newDevelopments">New Developments</option>
+            </select><br>
+
+            <button type="button" onclick="submitPreferences()">Submit Preferences</button>
+        </form>
+
+    <div class="scrollable-property-cards">
+        <div id="recommendations" class="property-cards"></div>
+     </div>
+
+        <div class="back-home-container">
+            <button onclick="window.location.href='/'" class="back-home-btn">Back to Home</button>
+        </div>
+    </div>
+
+    <script>
+        async function fetchCities() {
+            const environment = document.getElementById('environment').value;
+            const response = await fetch('/get-cities', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ environment: environment })
+            });
+
+            const data = await response.json();
+            const citySelect = document.getElementById('city');
+            citySelect.innerHTML = '';
+
+            data.cities.forEach(city => {
+                const option = document.createElement('option');
+                option.value = city;
+                option.text = city;
+                citySelect.appendChild(option);
+            });
+        }
+
+        async function submitPreferences() {
+            const budgetElement = document.getElementById('budget');
+            const cityElement = document.getElementById('city');
+            const housingElement = document.getElementById('housing');
+            const recommendationsDiv = document.getElementById('recommendations');
+
+            const budget = budgetElement.value.trim();
+            const city = cityElement.value.trim();
+            const housing = housingElement.value.trim();
+
+            if (!budget || !city || !housing) {
+                alert('Please fill in all the fields before submitting.');
+                return;
+            }
+        
+            const formData = { budget, city, housing };
+        
+            try {
+                recommendationsDiv.innerHTML = "<p>Loading recommendations...</p>"; // Show loading message
+
+                const response = await fetch('/preferences', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(formData)
+                });
+
+                if (!response.ok) {
+                    alert('Failed to get recommendations. Please try again later.');
+                    recommendationsDiv.innerHTML = "";
+                    return;
+                }
+            
+                const data = await response.json();
+            
+                if (data.recommendations) {
+                    // Inject the HTML response directly into the recommendations div
+                    recommendationsDiv.innerHTML = data.recommendations;
+                } else {
+                    recommendationsDiv.innerHTML = "<p>No recommendations found for the selected options.</p>";
+                }
+            
+            } catch (error) {
+                console.error('Error fetching recommendations:', error);
+                alert('An error occurred while fetching recommendations.');
+                recommendationsDiv.innerHTML = "";
+            }
+        }
+
+        window.addEventListener('load', fetchCities);
+    </script>
+
+    {% include 'chatbot.html' %}
+
+</body>
+
+</html>

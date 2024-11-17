@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Migration Assistant</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+    <!-- Main Container -->
+    <div class="container hero-section">
+        <div class="hero-text">
+            <h1>Welcome to AI Migration Assistant</h1>
+            <p>Discover your next adventure with ease! Let us help you find the perfect place to call home and guide you through life's little costs—whether you're moving across the globe or just around the corner.</p>
+
+            <!-- Navigation Menu -->
+            <div class="menu-container">
+                <button class="menu-btn" onclick="window.location.href='/housing'">Find Housing Options</button>
+                <button class="menu-btn" onclick="window.location.href='/dashboard'">Budget Dashboard</button>
+                <button class="menu-btn" onclick="window.location.href='/directory'">Go to Directory</button>
+                <button class="menu-btn" onclick="window.location.href='/poi-map'">Go to Points of Interest Map</button>
+            </div>
+        </div>
+
+        <!-- Welcome Image with Bot Icon -->
+        <div id="welcome-image">
+            <img src="{{ url_for('static', filename='bot-waving.png') }}" alt="Welcome Image" />
+        </div>
+    </div>
+
+    <!-- Include the chatbot -->
+    {% include 'chatbot.html' %}
+</body>
+
+</html>

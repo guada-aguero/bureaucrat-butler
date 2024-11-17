@@ -1,0 +1,2163 @@
+[
+    {
+        "place_name": "Serviço de Finanças - Abrantes",
+        "address": "Rua Nossa Senhora da Conceição, 2200-392 Abrantes",
+        "lat": 39.4585648,
+        "lng": -8.1985558,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Aguiar da Beira",
+        "address": "Alto de S. António, 35, 3570-015 Aguiar da Beira",
+        "lat": 40.816453,
+        "lng": -7.5454104,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Alandroal",
+        "address": "Travessa da Fonte, 7250-149 Alandroal",
+        "lat": 38.7023775,
+        "lng": -7.4026057,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Albergaria-a-Velha",
+        "address": "Rua Prof. Egas Moniz, 3850-043 Albergaria-a-Velha",
+        "lat": 40.6882795,
+        "lng": -8.4801329,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Albufeira",
+        "address": "Rua das Telecomunicações, Cerro de Alagoa, 2 – R/C, 8200-184 Albufeira",
+        "lat": 37.0890719,
+        "lng": -8.2478796,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Alcanena",
+        "address": "Rua Margarida Adelaide Gonçalves Louro, Lote 2 – R/C, 2380-190 Alcanena",
+        "lat": 39.4595628,
+        "lng": -8.666868899999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Alcobaça",
+        "address": "Rua Afonso de Albuquerque, 63-A, 2461-503 Alcobaça",
+        "lat": 39.5515508,
+        "lng": -8.9735078,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Alcochete",
+        "address": "Rua Carlos Manuel Rodrigues Francisco, 17 – R/C, 2890-042 Alcochete",
+        "lat": 38.7547114,
+        "lng": -8.9598766,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Alcoutim",
+        "address": "Av. Duarte Pacheco, 2, 8970-071 Alcoutim",
+        "lat": 37.4709113,
+        "lng": -7.471199699999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Alcácer do Sal",
+        "address": "Praça Pedro Nunes, 7580-125 Alcácer do Sal",
+        "lat": 38.3709394,
+        "lng": -8.5129231,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Alenquer",
+        "address": "Largo Rainha S. Isabel, 2580-372 Alenquer",
+        "lat": 39.0559049,
+        "lng": -9.0069228,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Alfândega da Fé",
+        "address": "Rua Padre António Vieira, Lote 4, R/C, 5300-224 Bragança",
+        "lat": 41.8013145,
+        "lng": -6.7672243,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Alijó",
+        "address": "Av. Dr. Francisco Sá Carneiro, 118, 5070-013 Alijó",
+        "lat": 41.2768587,
+        "lng": -7.4784744,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Aljezur",
+        "address": "Rua 25 de Abril, 93, 8670-088 Aljezur",
+        "lat": 37.3137349,
+        "lng": -8.8036818,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Aljustrel",
+        "address": "Av. 1º de Maio, 7600-010 Aljustrel",
+        "lat": 37.8781213,
+        "lng": -8.1619285,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Almada 1",
+        "address": "Av. 25 de Abril, 5-B – 2.º, 2804-528 Almada",
+        "lat": 38.6848113,
+        "lng": -9.1476105,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Almada 2",
+        "address": "Rua Galileu Saúde Correia, 8-C, 2800-559 Almada",
+        "lat": 38.674936,
+        "lng": -9.1668022,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Almada 3",
+        "address": "Praça Padre Manuel Bernardes, Torre das Argolas, 2829-510 Costa da Caparica",
+        "lat": 38.6401441,
+        "lng": -9.2296112,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Almeida",
+        "address": "Rua S. João de Deus, 6350-130 Almeida",
+        "lat": 40.7246462,
+        "lng": -6.906452499999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Almeirim",
+        "address": "Rua dos Aliados, 82-B, 2080-116 Almeirim",
+        "lat": 39.208545,
+        "lng": -8.6204813,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Almodôvar",
+        "address": "R. D. Nuno Álvares Pereira - Edf. Governo Civil - Apartado 478, 7801-851 Beja",
+        "lat": 7.882760999999999,
+        "lng": -76.624692,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Alpiarça",
+        "address": "Rua Duarte Governo, 2090-081 Alpiarça",
+        "lat": 39.2594244,
+        "lng": -8.5836766,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Alter do Chão",
+        "address": "Rua D. Francisco Garcia Mendes, 7440-082 Alter do Chão",
+        "lat": 39.1962634,
+        "lng": -7.6572839,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Alvaiázere",
+        "address": "Rua Santa Maria Madalena, 11, 3250-100 Alvaiázere",
+        "lat": 39.8246851,
+        "lng": -8.3814795,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Alvito",
+        "address": "Largo da Igreja, 4, 7920-022 Alvito",
+        "lat": 38.255965,
+        "lng": -7.9923299,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Amadora 1",
+        "address": "Rua Henrique Nogueira, 22 A, 2704-501 Amadora",
+        "lat": 38.7592812,
+        "lng": -9.2327097,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Amadora 2",
+        "address": "Praceta Alves Cunha, 3, 2704-502 Amadora",
+        "lat": 38.7531136,
+        "lng": -9.2124318,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Amadora 3",
+        "address": "Rua Correia Teles, 1, R/C, 2720-001 Amadora",
+        "lat": 38.7534645,
+        "lng": -9.2294022,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Amarante",
+        "address": "Av. 1.º de Maio, Edifício Carvalhido – S. Gonçalo, 4600-013 Amarante",
+        "lat": 41.2711986,
+        "lng": -8.0782248,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Amares",
+        "address": "Praça do Município, 4720-057 Amares",
+        "lat": 41.64661419999999,
+        "lng": -8.3417006,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Anadia",
+        "address": "Loja de Cidadão de Anadia, Praça da Juventude, Edif. Serviços de Proximidade, 3780-323 Anadia",
+        "lat": 40.4431724,
+        "lng": -8.434907899999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Angra do Heroísmo",
+        "address": "Rua da Sé – Edifício Banco de Portugal, 9700-191 Angra do Heroísmo",
+        "lat": 38.6558449,
+        "lng": -27.2206821,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Arcos de Valdevez",
+        "address": "Praceta Dr. Artur Bívar, 4970-440 Arcos de Valdevez",
+        "lat": 41.8415702,
+        "lng": -8.419663,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Arganil",
+        "address": "Av. das Forças Armadas, 3300-011 Arganil",
+        "lat": 40.2199876,
+        "lng": -8.0530188,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Armamar",
+        "address": "R. Gaspar e Manuel Cardoso, 5110-138 Armamar",
+        "lat": 41.1093545,
+        "lng": -7.6906745,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Arouca",
+        "address": "Av. das Escolas, 3-B, 4540-103 Arouca",
+        "lat": 40.9427496,
+        "lng": -8.402733399999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Arraiolos",
+        "address": "Rua Nosso Senhor Jesus dos Passos, 7040-057 Arraiolos",
+        "lat": 38.7202197,
+        "lng": -7.9828457,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Arronches",
+        "address": "Bairro de Sto António, Mercado Municipal, 7 e 8, 7340-041 Arronches",
+        "lat": 39.1215737,
+        "lng": -7.279177,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Arruda dos Vinhos",
+        "address": "Rua Irene Lisboa, 42-46, 2630-246 Arruda dos Vinhos",
+        "lat": 38.9857236,
+        "lng": -9.078453399999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Aveiro 1",
+        "address": "Rua Cristovão Pinho Queimado, Forca Vouga, 3800-012 Aveiro",
+        "lat": 40.6369981,
+        "lng": -8.6366469,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Aveiro 2",
+        "address": "Rua Dr. Artur Alves Moreira, Bloco E, R/C - Esgueira, 3800-091 Aveiro",
+        "lat": 40.6500861,
+        "lng": -8.6303558,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Avis",
+        "address": "Largo Cândido dos Reis, 2 – 2.º, 7480-116 Avis",
+        "lat": 39.0566355,
+        "lng": -7.8896603,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Azambuja",
+        "address": "Rua Victor Cordon, 11, Porta 1, Edifício Lezíria, 2050-336 Azambuja",
+        "lat": 39.0698959,
+        "lng": -8.866237,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Baião",
+        "address": "Rua Heróis do Ultramar, 4640-158 Baião",
+        "lat": 41.1642141,
+        "lng": -8.034313599999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Barcelos",
+        "address": "Av. D. Nuno Álvares Pereira, Edifício Cidade Nova, 4750-324 Barcelos",
+        "lat": 41.5569268,
+        "lng": -8.6160674,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Barrancos",
+        "address": "R. D. Nuno Álvares Pereira - Edf. Governo Civil - Apartado 478, 7801-851 Beja",
+        "lat": 7.882760999999999,
+        "lng": -76.624692,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Barreiro",
+        "address": "Rua Stara Zagora, 20 – R/C, 2830-364 Barreiro",
+        "lat": 38.6619609,
+        "lng": -9.074777599999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Batalha",
+        "address": "Loja de Cidadão da Batalha, Rua Infante D. Fernando, Paços do Concelho, 2440-118 Batalha",
+        "lat": 39.6593956,
+        "lng": -8.8224539,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Beja",
+        "address": "Praça da República, 7801-851 Beja",
+        "lat": 38.0154362,
+        "lng": -7.8652149,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Belmonte",
+        "address": "Rua Pedro Álvares Cabral, 146, 6250-088 Belmonte",
+        "lat": 40.3588894,
+        "lng": -7.350686800000001,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Benavente",
+        "address": "Largo Antero de Quental, Lote 1 e 2, 2130-064 Benavente",
+        "lat": 38.98047589999999,
+        "lng": -8.8083144,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Bombarral",
+        "address": "Rua José Veríssimo Duarte, 1, 2540-110 Bombarral",
+        "lat": 39.2684502,
+        "lng": -9.155708899999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Borba",
+        "address": "Largo da Liberdade – Mercado Municipal, 7150-102 Borba",
+        "lat": 38.8069815,
+        "lng": -7.4554406,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Boticas",
+        "address": "Rua 5 de Outubro, 5460-304 Boticas",
+        "lat": 41.6874935,
+        "lng": -7.6685227,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Braga 1",
+        "address": "Rua do Raio, 213 – R/C, 4710-923 Braga",
+        "lat": 41.5494726,
+        "lng": -8.4195034,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Braga 2",
+        "address": "Rua Moura Coutinho, 63 – R/C, 4704-512 Braga",
+        "lat": 41.5438525,
+        "lng": -8.4360629,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Bragança",
+        "address": "Rua Emídio Navarro, 5300-210 Bragança",
+        "lat": 41.806805,
+        "lng": -6.7563933,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Cabeceiras de Basto",
+        "address": "Alameda Dr. Mário Soares, 1, 4860-149 Refojos",
+        "lat": 41.511917,
+        "lng": -7.9907962,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Cadaval",
+        "address": "Av. Dr. Francisco Sá Carneiro, 14 e 18, 2550-103 Cadaval",
+        "lat": 39.2399669,
+        "lng": -9.102365599999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Caldas Rainha",
+        "address": "Praça 25 de Abril, Edifício dos Paços do Concelho, 2500-110 Caldas da Rainha",
+        "lat": 39.4070982,
+        "lng": -9.1365696,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Calheta",
+        "address": "Rua Padre Manuel Azevedo Cunha, 9850-045 Calheta",
+        "lat": 38.6016137,
+        "lng": -28.0161156,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Caminha",
+        "address": "Rua de S. João, 100, 4910-145 Caminha",
+        "lat": 41.1419135,
+        "lng": -8.6137253,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Campo Maior",
+        "address": "Largo do Barata, 2 – 1.º Dto., 7370-108 Campo Maior",
+        "lat": 39.0128111,
+        "lng": -7.071900299999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Cantanhede",
+        "address": "Edifício Marialva, Rua Marquês de Marialva, 5, 3060-184 Cantanhede",
+        "lat": 40.3456794,
+        "lng": -8.5938223,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Carrazeda de Ansiães",
+        "address": "Praça dos Combatentes, 24, 5140-066 Carrazeda de Ansiães",
+        "lat": 41.2411116,
+        "lng": -7.3078018,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Carregal do Sal",
+        "address": "Loja de Cidadão de Carregal do Sal, Praça do Município, 3430-167 Carregal do Sal",
+        "lat": 40.4302782,
+        "lng": -8.005742099999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Cartaxo",
+        "address": "Praça 15 de dezembro, Paços do Concelho, 2070-050 Cartaxo",
+        "lat": 39.1602994,
+        "lng": -8.7882378,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Cascais 1",
+        "address": "Av. Ultramar, Edifício Vimar, 3 – 5, 2750-506 Cascais",
+        "lat": 38.6998662,
+        "lng": -9.4243094,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Cascais 2",
+        "address": "Rua Dr. José Joaquim de Almeida, 905, 2775-595 Parede",
+        "lat": 38.6901571,
+        "lng": -9.3385936,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Castanheira de Pêra",
+        "address": "Rua dos Bombeiros Voluntários, 13 – R/C, 3280-035 Castanheira de Pêra",
+        "lat": 40.0054256,
+        "lng": -8.2108065,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Castelo Branco 1",
+        "address": "R. da Mina, 6000-170 Castelo Branco",
+        "lat": 39.8294788,
+        "lng": -7.4979642,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Castelo Branco 2",
+        "address": "R. Prof. Faria de Vasconcelos, 7 – R/C, 6000-266 Castelo Branco",
+        "lat": 39.8189445,
+        "lng": -7.496240999999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Castelo de Paiva",
+        "address": "Praça Independência, Sobrado, 4550-103 Castelo de Paiva",
+        "lat": 41.0411955,
+        "lng": -8.2718459,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Castelo de Vide",
+        "address": "Rua Sequeira Sameiro, 7320-138 Castelo de Vide",
+        "lat": 39.4137398,
+        "lng": -7.4536949,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Castro Daire",
+        "address": "Av. João Rodrigues Cabrilho, 7 – R/C, 3600-191 Castro Daire",
+        "lat": 40.89996250000001,
+        "lng": -7.930324199999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Castro Marim",
+        "address": "Rua de S. Sebastião, 12 – R/C, 8950-122 Castro Marim",
+        "lat": 37.2174866,
+        "lng": -7.444031299999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Castro Verde",
+        "address": "Praça do Município, 6, 7780-217 Castro Verde",
+        "lat": 37.6981858,
+        "lng": -8.082773099999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Celorico da Beira",
+        "address": "Rua Sacadura Cabral, Edifício dos Paços do Concelho, 6360-331 Celorico da Beira",
+        "lat": 40.6343939,
+        "lng": -7.3945468,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Celorico de Basto",
+        "address": "Rua Serpa Pinto, 4890-238 Celorico de Basto",
+        "lat": 41.3845505,
+        "lng": -8.0016073,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Chamusca",
+        "address": "Rua Mascarenhas Pedroso, 1 – 1.º, 2140-133 Chamusca",
+        "lat": 39.357682,
+        "lng": -8.481079099999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Chaves",
+        "address": "Av. Pedro Álvares Cabral – Edifício Angola, 5400-439 Chaves",
+        "lat": -11.202692,
+        "lng": 17.873887,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Cinfães",
+        "address": "Palácio da Justiça, Rua Major Monteiro Leite, 4960-030 Cinfães",
+        "lat": 41.0758459,
+        "lng": -8.0946327,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Coimbra 1",
+        "address": "Rua Particular à Ladeira do Batista, Edf. Atenas Parque, 3030-253 Coimbra",
+        "lat": 40.2024211,
+        "lng": -8.4241786,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Coimbra 2",
+        "address": "Av. Fernão de Magalhães, 437 – 1.º/2.º, 3000-177 Coimbra",
+        "lat": 40.2140038,
+        "lng": -8.4349165,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Condeixa-a-Nova",
+        "address": "Rua Dr. Simão Cunha, 45, 3150-140 Condeixa-a-Nova",
+        "lat": 40.1117902,
+        "lng": -8.4978385,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Constância",
+        "address": "Av. das Forças Armadas, Edifício Camões, 2250-020 Constância",
+        "lat": 39.4755864,
+        "lng": -8.3406784,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Coruche",
+        "address": "Rua 25 de Abril – Quinta do Lago, 2100-126 Coruche",
+        "lat": 38.961764,
+        "lng": -8.5251453,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Corvo",
+        "address": "Rua do Jogo da Bola (Edifício Polivalente), 9980-024 Corvo",
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Covilhã",
+        "address": "Av. Frei Heitor Pinto, 12, 6201-005 Covilhã",
+        "lat": 40.2849271,
+        "lng": -7.506425300000001,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Crato",
+        "address": "Rua José da Gama, 16, 7430-165 Crato",
+        "lat": -7.229957199999999,
+        "lng": -39.4122984,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Cuba",
+        "address": "Rua João Vaz, 7940-159 Cuba",
+        "lat": 38.1674942,
+        "lng": -7.8926057,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Elvas",
+        "address": "Rua Maria Isabel Picão, 7350-476 Elvas",
+        "lat": 38.8805695,
+        "lng": -7.1643253,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Entroncamento",
+        "address": "Av. Dr. José Eduardo Vítor das Neves, 2330-066 Entroncamento",
+        "lat": 39.4611407,
+        "lng": -8.4687564,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Espinho",
+        "address": "Rua 26, 605, 4500-282 Espinho",
+        "lat": 41.0077362,
+        "lng": -8.6374915,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Esposende",
+        "address": "Praça Henrique Medina, 7, 4740-559 Esposende",
+        "lat": 41.5322378,
+        "lng": -8.777736,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Estarreja",
+        "address": "Rua Luís de Camões, 41 – R/C, 3860-381 Estarreja",
+        "lat": 40.7558149,
+        "lng": -8.566496599999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Estremoz",
+        "address": "Rossio Marquês de Pombal, 17 – 1.º, 7100-513 Estremoz",
+        "lat": 38.8422725,
+        "lng": -7.5870305,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Fafe",
+        "address": "Av. 5 de outubro, 45 – 1.º, 4820-115 Fafe",
+        "lat": 41.4535846,
+        "lng": -8.170458,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Faro",
+        "address": "LG Francisco Sá Carneiro, Mercado Municipal, Piso1, 8000-077 Faro",
+        "lat": 37.0164626,
+        "lng": -7.9351983,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Feira 1",
+        "address": "Avenida Dr. Lourenço Peixinho, nº 164, 3804-501 Aveiro",
+        "lat": 40.642904,
+        "lng": -8.6462599,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Feira 2",
+        "address": "Rua do Infantário, 300, 4535-068 Lourosa",
+        "lat": 40.9839425,
+        "lng": -8.537531,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Feira 3",
+        "address": "Rua do Comércio, 1070 – R/C, 4505-473 Lobão",
+        "lat": 40.9849212,
+        "lng": -8.4890382,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Feira 4",
+        "address": "Avenida do Corgo, 285, 4535-266 Paços de Brandão",
+        "lat": 40.9737791,
+        "lng": -8.5903438,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Felgueiras",
+        "address": "Av. Dr. Ribeiro de Magalhães - Margaride, 4610-108 Felgueiras",
+        "lat": 41.3606274,
+        "lng": -8.1928776,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Ferreira do Alentejo",
+        "address": "Praça Comendador Infante Passanha, 16, 7900-676 Ferreira do Alentejo",
+        "lat": 38.0588171,
+        "lng": -8.1163758,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Ferreira do Zêzere",
+        "address": "Rua Brigadeiro Lino Valente, 32, 2240-348 Ferreira do Zêzere",
+        "lat": 39.6933663,
+        "lng": -8.2923558,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Figueira da Foz 1",
+        "address": "Rua Dr. Francisco António Dinis, 3080-157 Figueira da Foz",
+        "lat": 40.1493473,
+        "lng": -8.8634834,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Figueira da Foz 2",
+        "address": "Rua Rancho das Cantarinhas, 120, R/C – Buarcos, 3080-250 Figueira da Foz",
+        "lat": 40.16440710000001,
+        "lng": -8.8674691,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Figueira de Castelo Rodrigo",
+        "address": "Av. 25 de Abril, 72, 6440-111 Figueira de Castelo Rodrigo",
+        "lat": 40.8941031,
+        "lng": -6.9630059,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Figueiró dos Vinhos",
+        "address": "Praça do Município, 3260-408 Figueiró dos Vinhos",
+        "lat": 39.9009151,
+        "lng": -8.2846398,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Fornos de Algodres",
+        "address": "Urbanização Zona Sul, 6370-147 Fornos de Algodres",
+        "lat": 40.61936,
+        "lng": -7.5380485,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Freixo de Espada à Cinta",
+        "address": "Rua Padre António Vieira, Lote 4, R/C, 5300-224 Bragança",
+        "lat": 41.8013145,
+        "lng": -6.7672243,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Fronteira",
+        "address": "Largo Prof. Dr. Antunes Varela, Palácio da Justiça, 7460-111 Fronteira",
+        "lat": 39.0515078,
+        "lng": -7.6439316,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Fundão",
+        "address": "Travessa do Passadiço, 14, 6230-453 Fundão",
+        "lat": 40.1386557,
+        "lng": -7.4986474,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Gavião",
+        "address": "Rua Dr. Eusébio Leão, 93, 6040-120 Gavião",
+        "lat": 39.4643764,
+        "lng": -7.937558699999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Golegã",
+        "address": "Largo D. Manuel I, Edifício da Câmara Municipal, 2150-128 Golegã",
+        "lat": 39.4024927,
+        "lng": -8.4889077,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Gondomar 1",
+        "address": "Rua Manuel Ribeiro de Almeida, 130-160, 4420-195 Gondomar",
+        "lat": 41.1465253,
+        "lng": -8.5408287,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Gondomar 2",
+        "address": "Travessa da Ferraria, 142, 4435-251 Rio Tinto",
+        "lat": 41.1753936,
+        "lng": -8.545828799999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Gouveia",
+        "address": "Praceta José Almeida Mota, Lote 2-A, 6290-531 Gouveia",
+        "lat": 40.4951112,
+        "lng": -7.5924738,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Grândola",
+        "address": "Av. Jorge Nunes, 7570-113 Grândola",
+        "lat": 38.1787854,
+        "lng": -8.5611967,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Guarda",
+        "address": "Av. Monsenhor Mendes do Carmo, 13 – R/C, 6300-586 Guarda",
+        "lat": 40.5407786,
+        "lng": -7.2712328,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Guimarães 1",
+        "address": "Av. Conde de Margaride, 822 – 1.º, 4839-004 Guimarães",
+        "lat": 41.4421954,
+        "lng": -8.3017849,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Guimarães 2",
+        "address": "R. Dr. Costa Júnior, nº 31, 4710-231 Braga",
+        "lat": 41.5450098,
+        "lng": -8.4161065,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Góis",
+        "address": "Rua CMDT Henrique Bebiano Baeta Neves, 3330-316 Góis",
+        "lat": 40.1561638,
+        "lng": -8.1099477,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Horta",
+        "address": "Largo Duque de Ávila e Bolama, 9901-855 Horta",
+        "lat": 38.5368022,
+        "lng": -28.6263601,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Idanha-a-Nova",
+        "address": "Edifício dos Paços do Concelho, 6060-163 Idanha-a-Nova",
+        "lat": 39.9230607,
+        "lng": -7.241608299999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lagoa",
+        "address": "Gaveto da R. Espírito Santo com a Av. Inf. D. Henrique, 1 – 1.º, 9560-079 Lagoa",
+        "lat": 37.7451046,
+        "lng": -25.5720746,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lagoa (Algarve)",
+        "address": "Rua do Viveiro Municipal, Lotes 5 e 6 – R/C, 8401-852 Lagoa",
+        "lat": -22.9618197,
+        "lng": -43.2030773,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lagos",
+        "address": "Rua Capitão Salgueiro Maia, Lote 13 – R/C, 8600-620 Lagos",
+        "lat": 37.096401,
+        "lng": -8.675428199999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lajes das Flores",
+        "address": "Rua Peixoto Pimentel, 9960-431 Lajes das Flores",
+        "lat": 39.382807,
+        "lng": -31.185411,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lajes do Pico",
+        "address": "Rua de São Francisco, 9930-135 Lajes do Pico",
+        "lat": 38.3975655,
+        "lng": -28.2525827,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lamego",
+        "address": "Rua da Preguiça, 5100-160 Lamego",
+        "lat": 41.0995758,
+        "lng": -7.8051961,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Leiria 1",
+        "address": "Rua Perpendicular à Rua do Município, B-2 – R/C, 2414-008 Leiria",
+        "lat": 39.7400916,
+        "lng": -8.8094974,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Leiria 2",
+        "address": "Rua de S. Francisco, 3 – 1.º Dto., 2400-232 Leiria",
+        "lat": 39.7481481,
+        "lng": -8.804905,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lisboa 1",
+        "address": "Av. General Roçadas, 11-B, 1199-004 Lisboa",
+        "lat": 38.7242764,
+        "lng": -9.1287621,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lisboa 10",
+        "address": "Av. Fontes Pereira de Melo, 30-B – R/C, 1069-096 Lisboa",
+        "lat": 38.7303017,
+        "lng": -9.1467233,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lisboa 11",
+        "address": "R. República do Paraguai, 22, 1769-002 Lisboa",
+        "lat": 38.7734678,
+        "lng": -9.160276999999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lisboa 2",
+        "address": "Rua Rodrigo da Fonseca, 57, 1250-190 Lisboa",
+        "lat": 38.7227298,
+        "lng": -9.1533042,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lisboa 3",
+        "address": "Rua dos Correeiros, 70 – 1.º, 1100-167 Lisboa",
+        "lat": 38.7107232,
+        "lng": -9.137206599999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lisboa 4",
+        "address": "Rua Ponta Delgada, 69, 1000-241 Lisboa",
+        "lat": 38.7341514,
+        "lng": -9.1373792,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lisboa 5",
+        "address": "Rua Amélia Rey Colaço, 7-B, 1549-013 Lisboa",
+        "lat": 38.7527196,
+        "lng": -9.2039078,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lisboa 6",
+        "address": "Rua General Silva Freire, 158 – 1.º, 1849-028 Lisboa",
+        "lat": 38.7741518,
+        "lng": -9.1133498,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lisboa 7",
+        "address": "Rua Alfredo Soares, 2-A, 1400-006 Lisboa",
+        "lat": 38.7106796,
+        "lng": -9.2116321,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lisboa 8",
+        "address": "Rua Centro Cultural, 12, 1749-065 Lisboa",
+        "lat": 38.7561533,
+        "lng": -9.142649400000002,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lisboa 9",
+        "address": "Rua Luiz Pacheco, Lotes 103 e 104, 1950-244 Lisboa",
+        "lat": 38.7533078,
+        "lng": -9.112931099999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Loulé 1",
+        "address": "Largo das Portas do Céu, 8100-854 Loulé",
+        "lat": 37.1379187,
+        "lng": -8.020216,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Loulé 2",
+        "address": "Rua S. Tomé e Príncipe, Edifício Solaris, 8125-254 Quarteira",
+        "lat": 37.0716285,
+        "lng": -8.1019875,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Loures 1",
+        "address": "Rua Manuel Augusto Pacheco, 6 – 1.º, 2674-503 Loures",
+        "lat": 38.8293584,
+        "lng": -9.1671672,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Loures 3",
+        "address": "Alameda dos Oceanos, 55, 1998-027 Lisboa",
+        "lat": 38.7695794,
+        "lng": -9.096223,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Loures 4",
+        "address": "Praceta Bombeiros Voluntários, 51 – 1.º, 2689-503 Sacavém",
+        "lat": 38.7937721,
+        "lng": -9.1076401,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lourinhã",
+        "address": "Praça Marquês de Pombal, 13-A, 2530-127 Lourinhã",
+        "lat": 39.2420613,
+        "lng": -9.312270999999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lousada",
+        "address": "Edf. Lousatur, Av. Combatentes da Grande Guerra, 384 – 1.º, 4620-141 Lousada",
+        "lat": 41.279329,
+        "lng": -8.288959799999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Lousã",
+        "address": "Av. S. Silvestre, 23 – R/C, 3200-203 Lousã",
+        "lat": 40.1115793,
+        "lng": -8.2449996,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Macedo de Cavaleiros",
+        "address": "Rua Almeida Pessanha, 18 – R/C Dto., 5340-230 Macedo de Cavaleiros",
+        "lat": 41.5378796,
+        "lng": -6.961055399999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Madalena",
+        "address": "Edifício Polivalente, 9950-332 Madalena",
+        "lat": 38.5338909,
+        "lng": -28.525394,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Maia",
+        "address": "Rua Simão Bolivar (Parque Central da Maia), 4470-214 Maia",
+        "lat": 41.23410459999999,
+        "lng": -8.6250892,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Mangualde",
+        "address": "Rua Dr. Sebastião Alcântara, 3 – R/C, 3534-002 Mangualde",
+        "lat": 40.606759,
+        "lng": -7.7633509,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Manteigas",
+        "address": "Rua 1.º de maio – Paços do Concelho, 6260-101 Manteigas",
+        "lat": 40.4022206,
+        "lng": -7.538339300000001,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Marco de Canaveses",
+        "address": "Av. Prof. Doutor Carlos Mota Pinto, 113 – 1.º, 4630-208 Marco de Canaveses",
+        "lat": 41.1838613,
+        "lng": -8.1460619,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Marinha Grande",
+        "address": "Largo 26 de Março de 1917, 2430-238 Marinha Grande",
+        "lat": 39.7470052,
+        "lng": -8.9349357,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Marvão",
+        "address": "Rua Dr. Matos de Magalhães – Casa do Brasão, 7330-121 Marvão",
+        "lat": 39.3939447,
+        "lng": -7.376536299999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Matosinhos 1",
+        "address": "Rua Alfredo Cunha, 264 – 1.º, 4450-021 Matosinhos",
+        "lat": 41.18465459999999,
+        "lng": -8.6811205,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Matosinhos 2",
+        "address": "Rua do Padre Costa, 372, 4465-105 São Mamede de Infesta",
+        "lat": 41.1907147,
+        "lng": -8.6067863,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Mação",
+        "address": "Loja de Cidadão de Mação, Av. Eng. Adelino Amaro da Costa, 347, 6120-746 Mação",
+        "lat": 39.5574295,
+        "lng": -7.9991628,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Mealhada",
+        "address": "Av. 25 de Abril, 35, 3054-002 Mealhada",
+        "lat": 40.3792392,
+        "lng": -8.452325,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Melgaço",
+        "address": "Rua Dr. António Durães, 15, 4960-522 Melgaço",
+        "lat": 42.1133422,
+        "lng": -8.2566977,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Mesão Frio",
+        "address": "Av. Conselheiro José Maria Alpoim, 5040-310 Mesão Frio",
+        "lat": 41.1595312,
+        "lng": -7.8906767,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Mira",
+        "address": "Av. 25 de Abril, 3070-301 Mira",
+        "lat": 40.42969009999999,
+        "lng": -8.7377544,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Miranda do Corvo",
+        "address": "Av. Padre Américo, 1 – 1.º, 3220-179 Miranda do Corvo",
+        "lat": 40.0938057,
+        "lng": -8.3315964,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Miranda do Douro",
+        "address": "Largo D. João III, 5210-190 Miranda do Douro",
+        "lat": 41.4941661,
+        "lng": -6.2740129,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Oliveira de Azeméis",
+        "address": "Rua 12 de Dezembro, Edifício Rainha, 138 – 1.º, 3720-210 Oliveira de Azeméis",
+        "lat": 40.8395112,
+        "lng": -8.480382,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Oliveira de Frades",
+        "address": "Av. dos Descobrimentos, 3680-110 Oliveira de Frades",
+        "lat": 40.7323498,
+        "lng": -8.1749773,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Oliveira do Bairro",
+        "address": "Rua do Foral, 20 – R/C, 3770-218 Oliveira do Bairro",
+        "lat": 40.5137216,
+        "lng": -8.4915472,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Oliveira do Hospital",
+        "address": "Rua Prof. António Ribeiro Garcia de Vasconcelos, 5A, 3400-132 Oliveira do Hospital",
+        "lat": 40.3593458,
+        "lng": -7.860409900000001,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Ourique",
+        "address": "Rua do Forno, 10, 7670-278 Ourique",
+        "lat": 37.6522629,
+        "lng": -8.225634699999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Ourém",
+        "address": "Rua Dr. António Justiniano Luz Preto, 2490-552 Ourém",
+        "lat": 39.6586564,
+        "lng": -8.5802262,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Ovar",
+        "address": "Rua Conselheiro Arala Chaves, 4, 3880-038 Ovar",
+        "lat": 40.8627026,
+        "lng": -8.618604099999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Palmela",
+        "address": "Rua Escola Preparatória Hermenegildo Capelo, 23 – 1.º, 2950-246 Palmela",
+        "lat": 38.5740282,
+        "lng": -8.9013902,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Pampilhosa da Serra",
+        "address": "Praça Barão de Loredo, 3320-214 Pampilhosa da Serra",
+        "lat": 40.0460978,
+        "lng": -7.9515498,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Paredes",
+        "address": "Rua Dr. José Correia Pacheco, 6/8, 4580-258 Paredes",
+        "lat": 41.2091764,
+        "lng": -8.3356027,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Paredes de Coura",
+        "address": "Rua Conselheiro Miguel Dantas, 4940-529 Paredes de Coura",
+        "lat": 41.9120528,
+        "lng": -8.5607385,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Paços de Ferreira",
+        "address": "Av. D. Sílvia Cardoso, 218, 4590-507 Paços de Ferreira",
+        "lat": 41.2758973,
+        "lng": -8.3753115,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Pedrógão Grande",
+        "address": "Av. Dr. Francisco Sá Carneiro, 3270-092 Pedrógão Grande",
+        "lat": 39.9165311,
+        "lng": -8.1438633,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Penacova",
+        "address": "Rua da Eirinha, 8 – R/C, 3360-330 Penacova",
+        "lat": 40.270826,
+        "lng": -8.282491799999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Penafiel",
+        "address": "Praceta do Mercado, 4560-632 Penafiel",
+        "lat": 41.2076612,
+        "lng": -8.2800725,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Penalva do Castelo",
+        "address": "Loja de Cidadão de Penalva do Castelo, Rua 1.º de dezembro, 115, 3550-135 Penalva do Castelo",
+        "lat": 40.6749413,
+        "lng": -7.698932300000001,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Penamacor",
+        "address": "Largo Júlio Rodrigues da Silva, 6090-545 Penamacor",
+        "lat": 40.166915,
+        "lng": -7.1699107,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Penedono",
+        "address": "Largo dos Freixos, 3630-253 Penedono",
+        "lat": 40.9903208,
+        "lng": -7.3943499,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Penela",
+        "address": "Edifício dos Paços do Concelho, 3230-253 Penela",
+        "lat": 40.02904849999999,
+        "lng": -8.3901592,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Peniche",
+        "address": "Rua Arqt.º Paulino Montez, Edifício Santo António, 2520-209 Peniche",
+        "lat": 39.360398,
+        "lng": -9.3816065,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Peso da Régua",
+        "address": "Rua Dr. Manuel de Arriaga, 778 – R/C, 5050-225 Peso da Régua",
+        "lat": 41.1607522,
+        "lng": -7.785054700000001,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Pinhel",
+        "address": "Rua Dr. António de Seixas, 18 – R/C, 6400-323 Pinhel",
+        "lat": 40.6899404,
+        "lng": -7.1279797,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Pombal",
+        "address": "Largo do Carmo, 10, 3100-451 Pombal",
+        "lat": 39.91344489999999,
+        "lng": -8.6280039,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Ponta Delgada",
+        "address": "Av. Infante D. Henrique – Ed. Alfândega, 9500-768 Ponta Delgada",
+        "lat": 37.7397262,
+        "lng": -25.6666118,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Ponte da Barca",
+        "address": "Urbanização das Fontainhas, 1 a 3, 4980-639 Ponte da Barca",
+        "lat": 41.8063345,
+        "lng": -8.4153626,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Ponte de Lima",
+        "address": "Rua Dr. Luís da Cunha Nogueira, 20 a 24, 4990-113 Ponte de Lima",
+        "lat": 41.7675221,
+        "lng": -8.5807006,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Ponte de Sôr",
+        "address": "Rua dos Bombeiros Voluntários, 81, 7400-223 Ponte de Sôr",
+        "lat": 39.2541001,
+        "lng": -8.0058243,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Portalegre",
+        "address": "Rua 31 de janeiro, 79, Ap. 103, 7300-901 Portalegre",
+        "lat": 39.2934499,
+        "lng": -7.4297622,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Portel",
+        "address": "Rua da Vidigueira, 5 – R/C, 7220-390 Portel",
+        "lat": 38.3076668,
+        "lng": -7.7053074,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Portimão",
+        "address": "Urb. Poço do Fojo, Quinta do Morais, LT 11, 8500-774 Portimão",
+        "lat": 37.1395818,
+        "lng": -8.5475501,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Porto 1",
+        "address": "Rua de Pinto Bessa, 606, 4300-428 Porto",
+        "lat": 41.1507058,
+        "lng": -8.5927057,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Porto 2",
+        "address": "Rua Gonçalo Sampaio, 291, 4150-367 Porto",
+        "lat": 41.1550887,
+        "lng": -8.6307718,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Porto 3",
+        "address": "Av. de Fernão de Magalhães, 988 – R/C, 4350-154 Porto",
+        "lat": 41.1581113,
+        "lng": -8.5931368,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Porto 4",
+        "address": "Rua Damião de Góis, 320/338, 4050-223 Porto",
+        "lat": 41.1622967,
+        "lng": -8.613335800000002,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Porto 5",
+        "address": "Rua dos Bragas, 190, 4050-122 Porto",
+        "lat": 41.1527569,
+        "lng": -8.6158406,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Porto de Mós",
+        "address": "Av. da Liberdade, 13, 2480-857 Porto de Mós",
+        "lat": 39.6009398,
+        "lng": -8.8180841,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Povoação",
+        "address": "Praça do Município, Palácio da Justiça, 9650-409 Povoação",
+        "lat": 37.7486524,
+        "lng": -25.2390903,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Praia da Vitória",
+        "address": "Av. Paço do Milhafre, 21-A, 9760-568 Praia da Vitória",
+        "lat": 38.7280482,
+        "lng": -27.0652487,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Proença-a-Nova",
+        "address": "Largo do Chão de Ordem, 24, 6150-524 Proença-a-Nova",
+        "lat": 39.7528915,
+        "lng": -7.9264145,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Póvoa de Lanhoso",
+        "address": "Av. dos Bombeiros Voluntários, 98 – 1.º Esq., 4830-514 Póvoa de Lanhoso",
+        "lat": 41.5736941,
+        "lng": -8.2668263,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Póvoa de Varzim",
+        "address": "Rua Ramalho Ortigão, 115 - R/C, 4490-678 Póvoa de Varzim",
+        "lat": 41.3828932,
+        "lng": -8.762035599999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Redondo",
+        "address": "Largo Bento de Jesus Caraça, 7170-021 Redondo",
+        "lat": 38.6466286,
+        "lng": -7.547995299999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Reguengos de Monsaraz",
+        "address": "Rua S. Marcos Campo, 59, 1.º, 7200-377 Reguengos de Monsaraz",
+        "lat": 38.4235386,
+        "lng": -7.538227,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Resende",
+        "address": "Rua Dr. Nunes da Ponte, 26, 4660-220 Resende",
+        "lat": 41.1892255,
+        "lng": -8.4990743,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Ribeira Grande",
+        "address": "Rua Espírito Santo, 1, 9600-545 Ribeira Grande",
+        "lat": 37.8210369,
+        "lng": -25.5148137,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Ribeira de Pena",
+        "address": "Av. da Noruega, 4870-151 Ribeira de Pena",
+        "lat": 41.5187465,
+        "lng": -7.7936865,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Rio Maior",
+        "address": "Rua Prof. Manuel José Ferreira, 38 – R/C, 2040-270 Rio Maior",
+        "lat": 39.3346156,
+        "lng": -8.935298399999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Sabrosa",
+        "address": "Rua do Loreto, 5060-328 Sabrosa",
+        "lat": 41.2689661,
+        "lng": -7.5752443,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Sabugal",
+        "address": "Rua Padre Manuel Nabais Caldeira, 6324-009 Sabugal",
+        "lat": 40.3512807,
+        "lng": -7.0858153,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Salvaterra de Magos",
+        "address": "Rua Capitão Salgueiro Maia, Lotes 14 e 15, 2120-080 Salvaterra de Magos",
+        "lat": 39.0242957,
+        "lng": -8.790327,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Santa Comba Dão",
+        "address": "Rua do Balcão, 6, 3440-336 Santa Comba Dão",
+        "lat": 40.396683,
+        "lng": -8.1302351,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Santa Cruz da Graciosa",
+        "address": "Rua Dr. Manuel Correia Lobão, 47, 9880-380 Santa Cruz da Graciosa",
+        "lat": 39.0867587,
+        "lng": -28.0068065,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Santa Cruz das Flores",
+        "address": "Rua Senador André de Freitas, 15, 9970-337 Santa Cruz das Flores",
+        "lat": 39.4536373,
+        "lng": -31.1276001,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Santa Marta de Penaguião",
+        "address": "Travessa do Douro, 17, 5030-480 Santa Marta de Penaguião",
+        "lat": 41.2113135,
+        "lng": -7.7849313,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Santarém",
+        "address": "Loja de Cidadão de Santarém, Rua Pedro de Santarém, 151 A, 2000-223 Santarém",
+        "lat": 39.22968710000001,
+        "lng": -8.6869225,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Santiago do Cacém",
+        "address": "Av. Manuel da Fonseca, 22-26, 7540-105 Santiago do Cacém",
+        "lat": 38.0182642,
+        "lng": -8.6959617,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Sardoal",
+        "address": "Loja de Cidadão do Sardoal, Rua 5 de Outubro, 61, 2230-123 Sardoal",
+        "lat": 39.53752,
+        "lng": -8.16128,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Seia",
+        "address": "Praça Dr. António Borges Pires, Palácio da Justiça, 6270-469 Seia",
+        "lat": 40.4170738,
+        "lng": -7.708619400000001,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Seixal 1",
+        "address": "Av. Albano Narciso Pereira, 11, 2840-457 Seixal",
+        "lat": 38.6399981,
+        "lng": -9.1004632,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Seixal 2",
+        "address": "Praceta Sampaio Bruno, 7-A – 1.º, Cruz de Pau, 2845-038 Amora",
+        "lat": 38.6216859,
+        "lng": -9.122778799999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Sernancelhe",
+        "address": "Paços do Concelho – Largo do Município, 3640-240 Sernancelhe",
+        "lat": 40.8982596,
+        "lng": -7.495792399999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Serpa",
+        "address": "Rua José Maria Graça Afreixo, s/n.º, 7830-358 Serpa",
+        "lat": 37.940353,
+        "lng": -7.600437800000001,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Sertã",
+        "address": "Av. 25 de Abril, Lt. 1 – R/C, 6100-731 Sertã",
+        "lat": 39.8015592,
+        "lng": -8.0958528,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Sesimbra",
+        "address": "Av. da Liberdade, 49, 2970-635 Sesimbra",
+        "lat": 38.445173,
+        "lng": -9.1000866,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Setúbal 1",
+        "address": "Av. Luísa Todi, 3-7, 2904-506 Setúbal",
+        "lat": 38.5226776,
+        "lng": -8.8874076,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Setúbal 2",
+        "address": "Av. 5 de Outubro, 148 – 2.º, 2900-309 Setúbal",
+        "lat": 38.5256824,
+        "lng": -8.8924726,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Sever do Vouga",
+        "address": "Rua do Jardim, s/n.º, 3744-003 Sever do Vouga",
+        "lat": 40.7334189,
+        "lng": -8.371767199999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Silves",
+        "address": "Rua Cândido dos Reis, Lote 1 – R/C, 8300-126 Silves",
+        "lat": 37.1929408,
+        "lng": -8.433909,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Sines",
+        "address": "Av. General Humberto Delgado, 34 – R/C, 7520-104 Sines",
+        "lat": 37.9579594,
+        "lng": -8.8674993,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Sintra 1",
+        "address": "Av. Movimento das Forças Armadas, 14, 2710-431 Sintra",
+        "lat": 38.8000743,
+        "lng": -9.3811358,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Sintra 2",
+        "address": "Av. EMB. Aristides de Sousa Mendes, 18 – 4.º, Mercês, 2725-537 Mem Martins",
+        "lat": 38.7982677,
+        "lng": -9.3288202,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Sintra 3",
+        "address": "Rua Nova do Zambujal, 4, 2735-302 Cacém",
+        "lat": 38.7703842,
+        "lng": -9.3036181,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Sintra 4",
+        "address": "Av. Miguel Bombarda, 27-A, 2745-175 Queluz",
+        "lat": 38.7599505,
+        "lng": -9.2573358,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Sobral de Monte Agraço",
+        "address": "Av. Marquês de Pombal, 19, 2590-041 Sobral de Monte Agraço",
+        "lat": 39.0189576,
+        "lng": -9.1511718,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Soure",
+        "address": "Av. Dr. Abel das Neves, Edf. Cerca dos Anjos, 1, R/C Sul, 3130-204 Soure",
+        "lat": 40.0602774,
+        "lng": -8.6232667,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Sousel",
+        "address": "Rua Direita, 18 – R/C, 7470-266 Sousel",
+        "lat": 38.9517744,
+        "lng": -7.676311600000001,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Sátão",
+        "address": "Loja de Cidadão de Sátão, Rua Dr. Hilário de Almeida Pereira, 27, 3560-172 Sátão",
+        "lat": 40.7409869,
+        "lng": -7.7361093,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - São Brás de Alportel",
+        "address": "Rua Boaventura Passos, 8 – R/C, 8150-121 São Brás de Alportel",
+        "lat": 37.1541962,
+        "lng": -7.888414,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - São João da Madeira",
+        "address": "Av. da Liberdade, Fórum Municipal – R/C Poente, 3700-163 São João da Madeira",
+        "lat": 40.8964288,
+        "lng": -8.4867138,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - São João da Pesqueira",
+        "address": "Av. Marquês de Soveral, 117 B, 5130-324 São João da Pesqueira",
+        "lat": 41.1498196,
+        "lng": -7.411634999999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - São Pedro do Sul",
+        "address": "Rua Sá Carneiro, 3660-428 São Pedro do Sul",
+        "lat": 40.7585171,
+        "lng": -8.068885,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - São Roque do Pico",
+        "address": "Edifício Polivalente, 9940-353 São Roque do Pico",
+        "lat": 38.524904,
+        "lng": -28.319918,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Tabuaço",
+        "address": "Av. António da Silva Barradas, 61, 5120-384 Tabuaço",
+        "lat": 41.1155165,
+        "lng": -7.5640205,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Tarouca",
+        "address": "Av. Padre Duarte Fernandes dos Santos, s/n.º – R/C, 3610-017 Tarouca",
+        "lat": 41.0174461,
+        "lng": -7.775003600000001,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Tavira",
+        "address": "Rua Amália Rodrigues, 4, 8801-003 Tavira",
+        "lat": 37.1256206,
+        "lng": -7.6494632,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Terras de Bouro",
+        "address": "Av. Dr. Paulo Marcelino, 75, 4840-100 Terras de Bouro",
+        "lat": 41.7184813,
+        "lng": -8.3080004,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Tomar",
+        "address": "Rua João Carlos Everard, 16, 2300-561 Tomar",
+        "lat": 39.6029298,
+        "lng": -8.4119001,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Tondela",
+        "address": "Praceta Dr. Teófilo Cruz, 55, 3460-589 Tondela",
+        "lat": 40.5167607,
+        "lng": -8.0821598,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Torre de Moncorvo",
+        "address": "R. Dr. João Leonardo, 5160-280 Torre de Moncorvo",
+        "lat": 41.1742259,
+        "lng": -7.0542989,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Torres Novas",
+        "address": "Rua Capitão Salgueiro Maia, Lote 1 – R/C, 2350-811 Torres Novas",
+        "lat": 39.478072,
+        "lng": -8.5404429,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Torres Vedras",
+        "address": "Rua Dr. Carlos França, 23-C, 2560-329 Torres Vedras",
+        "lat": 39.0896049,
+        "lng": -9.260088099999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Trancoso",
+        "address": "Rua Dr. Castro Lopes, 6420-039 Trancoso",
+        "lat": 40.7782941,
+        "lng": -7.3512393,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Trofa",
+        "address": "Rua da Saudade, 51, 4785-360 Trofa",
+        "lat": 41.3397984,
+        "lng": -8.5559435,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Tábua",
+        "address": "Praça Prof. Dr. Castanheira Neves, 13A – 1.º Piso, 3420-307 Tábua",
+        "lat": 40.3656384,
+        "lng": -8.0356087,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vagos",
+        "address": "Rua Dr. Mendes Correia (Pai), 270, 3840-443 Vagos",
+        "lat": 40.5516557,
+        "lng": -8.6798156,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vale de Cambra",
+        "address": "Rua de Santo António – Ed. Bela Vista, 248, 3730-249 Vale de Cambra",
+        "lat": 40.8511279,
+        "lng": -8.394236099999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Valença",
+        "address": "Largo Governo Militar, 5, 4930-694 Valença",
+        "lat": 42.0305495,
+        "lng": -8.644272599999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Valongo 1",
+        "address": "Rotunda 1º de maio, 168, 4440-519 Valongo",
+        "lat": 41.1937533,
+        "lng": -8.5017967,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Valongo 2",
+        "address": "Loja de Cidadão de Valongo, Rua Aldeia dos Lavradores, 240 - Piso 2, 4445-640 Ermesinde",
+        "lat": 41.2133218,
+        "lng": -8.5458056,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Valpaços",
+        "address": "Loja de Cidadão de Valpaços, Av.ª Eng.º Luís Castro Saraiva, 19, 5430-472 Valpaços",
+        "lat": 41.6087764,
+        "lng": -7.308759900000001,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Velas",
+        "address": "Rua de S. João, 9800-539 Velas",
+        "lat": 38.681373,
+        "lng": -28.207319,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vendas Novas",
+        "address": "Rua António Coelho Oliveira, Lt. 10, 7080-084 Vendas Novas",
+        "lat": 38.6756241,
+        "lng": -8.4568119,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Viana do Alentejo",
+        "address": "Rua Cândido dos Reis, 28 – R/C, 7090-238 Viana do Alentejo",
+        "lat": 38.3333867,
+        "lng": -8.0014103,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Viana do Castelo",
+        "address": "Praça da Liberdade, Edifício Nascente, Piso 0, 4900-040 Viana do Castelo",
+        "lat": 41.723447,
+        "lng": -8.770147,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vidigueira",
+        "address": "Largo José Afonso, 7960-224 Vidigueira",
+        "lat": 38.2108896,
+        "lng": -7.801901,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vieira do Minho",
+        "address": "Avenida João da Torre, 237, 4850-523 Vieira do Minho",
+        "lat": 41.6361757,
+        "lng": -8.139279,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Flor",
+        "address": "Rua Padre António Vieira, Lote 4, R/C, 5300-224 Bragança",
+        "lat": 41.8013145,
+        "lng": -6.7672243,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Franca Xira 1",
+        "address": "Rua Joaquim Pedro Monteiro, 25-A – 1.º, 2600-165 Vila Franca de Xira",
+        "lat": 38.9573182,
+        "lng": -8.9862588,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Franca Xira 2",
+        "address": "Rua dos Lavadouros, 7 e 8, 2615-123 Alverca do Ribatejo",
+        "lat": 38.900735,
+        "lng": -9.0392061,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Franca do Campo",
+        "address": "Largo do Município, 5 – R/C Esq., 9680-115 Vila Franca do Campo",
+        "lat": 37.7157269,
+        "lng": -25.4345063,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Nova Barquinha",
+        "address": "Rua Benvinda Conceição Pereira, Bloco 1, 2260-417 Vila Nova da Barquinha",
+        "lat": 39.459351,
+        "lng": -8.435754,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Nova de Cerveira",
+        "address": "Avenida Heróis Ultramar, 4920-275 Vila Nova de Cerveira",
+        "lat": 41.9431801,
+        "lng": -8.74374,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Nova de Famalicão 1",
+        "address": "Rua Ernesto Carvalho, Edifício Milão, Bloco 2 – R/C, 4760-143 Vila Nova de Famalicão",
+        "lat": 41.4087021,
+        "lng": -8.5227445,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Nova de Famalicão 2",
+        "address": "R. Dr. Costa Júnior, nº 31, 4710-231 Braga",
+        "lat": 41.5450098,
+        "lng": -8.4161065,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Nova de Foz Côa",
+        "address": "Rua D. Dinis, 5150-580 Vila Nova de Foz Côa",
+        "lat": 41.0834394,
+        "lng": -7.1377099,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Nova de Gaia 1",
+        "address": "Rua 14 de outubro, 1061-1069, 4430-034 Vila Nova de Gaia",
+        "lat": 41.1261917,
+        "lng": -8.6011847,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Nova de Gaia 2",
+        "address": "Av. da República, 1151-1163, Mafamude, 4430-203 Vila Nova de Gaia",
+        "lat": 41.1284058,
+        "lng": -8.6055303,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Nova de Gaia 3",
+        "address": "Av. da República, 1171 e 1183, 4434-501 Vila Nova de Gaia",
+        "lat": 41.1282958,
+        "lng": -8.6055159,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Nova de Paiva",
+        "address": "Av. 25 de Abril, 8 – R/C, 3650-209 Vila Nova de Paiva",
+        "lat": 40.8520718,
+        "lng": -7.7267796,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Nova de Poiares",
+        "address": "Praça Luís de Camões, 3350-156 Vila Nova de Poiares",
+        "lat": 40.2107505,
+        "lng": -8.258978,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Pouca de Aguiar",
+        "address": "Rua 1.º de maio, 4, 5450-018 Vila Pouca de Aguiar",
+        "lat": 41.5002387,
+        "lng": -7.6432318,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Real",
+        "address": "Rua Visconde de Carnaxide, 65, 5000-556 Vila Real",
+        "lat": 41.2941581,
+        "lng": -7.736417299999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Real de Santo António",
+        "address": "Rua de Angola, 39-A – 1.º, 8900-271 Vila Real de Santo António",
+        "lat": 37.1967995,
+        "lng": -7.4201562,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Velha de Ródão",
+        "address": "Rua de Santana, s/n.º, 6030-230 Vila Velha de Ródão",
+        "lat": 39.6557687,
+        "lng": -7.6743673,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Verde",
+        "address": "R. Dr. Costa Júnior, nº 31, 4710-231 Braga",
+        "lat": 41.5450098,
+        "lng": -8.4161065,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila Viçosa",
+        "address": "Largo Gago Coutinho, 32, 7160-214 Vila Viçosa",
+        "lat": 38.77617559999999,
+        "lng": -7.4209892,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila de Rei",
+        "address": "Largo Família Matos Silva Neves, 6110-174 Vila de Rei",
+        "lat": 39.6758453,
+        "lng": -8.1457625,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila do Bispo",
+        "address": "Largo do Município, 8650-407 Vila do Bispo",
+        "lat": 37.0696867,
+        "lng": -8.919581899999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila do Conde",
+        "address": "Av. Dr. Artur Cunha de Araújo, 270, 4480-667 Vila do Conde",
+        "lat": 41.3537697,
+        "lng": -8.746525499999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vila do Porto",
+        "address": "Largo da Nossa Senhora da Conceição, 9580-539 Vila do Porto",
+        "lat": 36.9568069,
+        "lng": -25.1412354,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vimioso",
+        "address": "Loja de Cidadão de Vimioso, Av. de Alcanices, Pavilhão Multiusos, 5230-308 Vimioso",
+        "lat": 41.5872698,
+        "lng": -6.5306446,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vinhais",
+        "address": "Rua Padre António Vieira, Lote 4, R/C, 5300-224 Bragança",
+        "lat": 41.8013145,
+        "lng": -6.7672243,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Viseu",
+        "address": "Rua D. António Alves Martins, 5, 3504-522 Viseu",
+        "lat": 40.6565861,
+        "lng": -7.9124712,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vizela",
+        "address": "Largo das Polés, 318 – S. Miguel, 4815-659 Vizela",
+        "lat": 41.38504349999999,
+        "lng": -8.3159925,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Vouzela",
+        "address": "Rua Dr. Guilherme Coutinho, s/n.º, 3670-235 Vouzela",
+        "lat": 40.7235916,
+        "lng": -8.1144298,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Águeda",
+        "address": "Rua Dr. José Maria Rodrigues Almeida, 62, 3754-502 Águeda",
+        "lat": 40.5752372,
+        "lng": -8.443406699999999,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Évora",
+        "address": "Praça do Sertório, 15, 7000-509 ÉVORA",
+        "lat": 38.5725308,
+        "lng": -7.9100696,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Ílhavo",
+        "address": "Av. 25 de Abril, Edif. Iliabum, 1.º, 3830-044 Ílhavo",
+        "lat": 40.6015077,
+        "lng": -8.6681658,
+        "type": "finance_offices"
+    },
+    {
+        "place_name": "Serviço de Finanças - Óbidos",
+        "address": "Largo S. João de Deus – S. Pedro, 2510-087 Óbidos",
+        "lat": 39.3609752,
+        "lng": -9.1571017,
+        "type": "finance_offices"
+    }
+]

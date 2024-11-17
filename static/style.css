@@ -1,0 +1,518 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+/* Reset all elements */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* General body styling */
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 100vh;
+    color: #333;
+}
+
+/* Container styling with shadow effect */
+.container,
+.directory-container,
+.office-entry {
+    width: 90%;
+    max-width: 1000px;
+    background-color: #ffffff;
+    padding: 35px;
+    border-radius: 16px;
+    box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.15);
+    margin-bottom: 40px;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+/* On hover, shadow deepens */
+.container:hover,
+.directory-container:hover {
+    box-shadow: 0px 12px 40px rgba(0, 0, 0, 0.25);
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #4a00e0;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+input[type="text"],
+input[type="number"],
+select {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: 2px solid #4a00e0;
+    font-size: 16px;
+    color: #333;
+    background-color: #f0f4ff;
+    transition: border-color 0.3s ease;
+}
+
+input[type="text"]:focus,
+input[type="number"]:focus,
+select:focus {
+    border-color: #2575fc;
+    outline: none;
+}
+
+/*  Button Styling */
+button,
+.back-home-btn {
+    background: linear-gradient(135deg, #4a00e0 0%, #8e2de2 100%);
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 600;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.menu-container {
+    display: flex;
+    flex-wrap: wrap; /* Ensure they wrap on smaller screens */
+    justify-content: center; /* Center the buttons */
+    gap: 15px; /* Add space between the buttons */
+    margin-top: 20px;
+}
+
+.menu-btn {
+    background: linear-gradient(135deg, #4a00e0 0%, #8e2de2 100%);
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 600;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    white-space: nowrap; /* Prevent text wrapping */
+}
+
+.menu-btn:hover {
+    background-color: #357ABD;  /* Change color on hover */
+    transform: translateY(-2px);  /* Add a slight movement effect on hover */
+}
+
+.menu-btn:active {
+    transform: translateY(0);  /* Return to normal position on click */
+}
+
+/* Button hover effect */
+button:hover,
+.back-home-btn:hover {
+    background: linear-gradient(135deg, #2575fc 0%, #6a11cb 100%);
+    transform: translateY(-2px);
+}
+
+/* Specific Button Sizes */
+.menu-btn {
+    padding: 10px 30px;
+}
+
+.back-home-btn {
+    padding: 15px 30px;
+    position: fixed;
+    bottom: 10px;
+    left: 0;
+    width: 100%;
+}
+
+/* Search this Area Button */
+#search-area-button {
+    display: block;
+    position: absolute;
+    top: 800px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    padding: 10px 25px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+    transition: transform 0.2s ease, background-color 0.3s ease;
+}
+
+
+
+/* Welcome Image Styles */
+#welcome-image img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Scrollable Panel */
+.scrollable-panel {
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+/* Accordion Styling */
+.accordion {
+    background-color: #4a00e0;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 18px;
+    transition: 0.4s;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+
+.accordion:hover {
+    background-color: #2575fc;
+}
+
+.accordion:after {
+    content: '\002B'; /* "+" sign */
+    font-size: 13px;
+    color: white;
+    float: right;
+    margin-left: 5px;
+}
+
+.accordion.active:after {
+    content: "\2212"; /* "-" sign */
+}
+
+.panel {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+/* Map Link Button */
+.map-link {
+    display: inline-block;
+    background-color: #6a11cb;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 10px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.map-link:hover {
+    background-color: #2575fc;
+    transform: translateY(-2px);
+}
+
+/* Chatbot Button Continued */
+#chatbotBtn {
+    width: 80px;
+    height: 80px;
+    background-color: #6a11cb;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
+    transition: transform 0.2s ease-in-out, background-color 0.3s;
+    font-size: 30px;
+}
+
+/* Modal for Chatbot */
+#chatbotModal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+    background-color: white;
+    margin: 10% auto;
+    padding: 20px;
+    border-radius: 12px;
+    width: 90%;
+    max-width: 400px;
+    box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Bot Icon Container and Tooltip */
+#bot-icon-container {
+    position: fixed;
+    bottom: 20px;  
+    left: 20px;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+#bot-icon {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
+    transition: transform 0.2s ease-in-out, background-color 0.3s;
+}
+
+#bot-icon:hover {
+    transform: scale(1.1);
+}
+
+#bot-icon-container:hover .tooltip {
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.tooltip {
+    visibility: hidden;
+    opacity: 0;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    position: absolute;
+    bottom: 90%;
+    left: 50%;
+    transform: translateX(-50%) translateY(10px);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    white-space: nowrap;
+    z-index: 1001;
+    font-size: 12px;
+}
+
+/* Scrollable Property Cards Container with Scrollbar */
+/* Scrollable Property Cards Container */
+.recommendations {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+/* Property Cards Grid */
+.property-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.property-card {
+    width: 250px;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.property-card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+
+.property-info {
+    padding: 15px;
+}
+
+.property-info h4 {
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+.property-info p {
+    font-size: 1rem;
+    color: #333;
+}
+
+.view-property-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4a90e2;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.view-property-btn:hover {
+    background-color: #357ABD;
+}
+
+/* Scrollable Property Cards */
+.scrollable-property-cards {
+    max-height: 500px;
+    overflow-y: auto;
+    margin-top: 20px;
+}
+
+/* Dashboard Container */
+.dashboard-container {
+    background-color: #ffffff;
+    padding: 35px;
+    border-radius: 16px;
+    box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.15);
+    text-align: center;
+    transition: all 0.3s ease;
+    margin-bottom: 40px;
+    width: 90%;
+    max-width: 1000px;
+    min-height: 90vh;
+}
+
+/* Scrollable Cost Breakdown */
+.cost-breakdown {
+    max-height: 300px;
+    overflow-y: auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 12px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    text-align: left;
+}
+
+/* Cost Breakdown List */
+.cost-breakdown ul {
+    list-style: none;
+    padding: 0;
+}
+
+.cost-breakdown li {
+    padding: 10px 0;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.cost-breakdown li h4 {
+    font-weight: 600;
+    margin-bottom: 8px;
+    font-size: 18px;
+}
+
+.cost-breakdown li:before {
+    content: "💸"; /* Example emoji for items */
+    font-size: 18px;
+    margin-right: 8px;
+}
+
+/* Customize icons for different categories */
+.cost-breakdown li.buy-apartment:before {
+    content: "🏠"; /* Apartment icon */
+}
+
+.cost-breakdown li.childcare:before {
+    content: "👶"; /* Childcare icon */
+}
+
+.cost-breakdown li.clothing-and-shoes:before {
+    content: "👗👞"; /* Clothing and Shoes icon */
+}
+
+.cost-breakdown li.markets:before {
+    content: "🛒"; /* Market icon */
+}
+
+.cost-breakdown li.rent-per-month:before {
+    content: "💰"; /* Rent icon */
+}
+
+.cost-breakdown li.restaurants:before {
+    content: "🍽️"; /* Restaurants icon */
+}
+
+.cost-breakdown li.salaries-and-financing:before {
+    content: "💵"; /* Salary icon */
+}
+
+.cost-breakdown li.sports-and-leisure:before {
+    content: "⚽"; /* Sports and Leisure icon */
+}
+
+.cost-breakdown li.transportation:before {
+    content: "🚗"; /* Transportation icon */
+}
+
+.cost-breakdown li.utilities-per-month:before {
+    content: "💡"; /* Utilities icon */
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 20px;
+    }
+
+    .accordion {
+        font-size: 16px;
+    }
+
+    .map-link {
+        padding: 6px 12px;
+        font-size: 12px;
+    }
+
+    .back-home-btn {
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+
+    .welcome-image {
+        width: 90%; /* Ensure it fits nicely on small screens */
+    }
+}
